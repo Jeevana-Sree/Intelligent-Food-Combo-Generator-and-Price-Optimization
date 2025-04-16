@@ -1,0 +1,580 @@
+Dish Name,Cuisine,Price,Rating,Restaurant Name,Category
+Dabeli,Street Food,68,4.4,Pind Baluchi,Main Course
+Sev Puri,Street Food,86,4.2,Pind Baluchi,Appetizer
+Misal Pav,Street Food,99,4.8,Pind Baluchi,Main Course
+Samosa,Street Food,42,4.2,Pind Baluchi,Appetizer
+Dahi Puri,Street Food,120,4.5,Pind Baluchi,Appetizer
+Pav Bhaji,Street Food,104,3.9,Pind Baluchi,Main Course
+Vada Pav,Street Food,68,3.9,Pind Baluchi,Main Course
+Masala Dosa,South Indian,147,4.7,Pind Baluchi,Main Course
+Appam with Stew,South Indian,173,4.0,Pind Baluchi,Main Course
+Filter Coffee,South Indian,46,4.1,Pind Baluchi,Beverage
+Pongal,South Indian,86,4.9,Pind Baluchi,Main Course
+Idli Sambar,South Indian,54,4.0,Pind Baluchi,Side
+Uttapam,South Indian,74,4.7,Pind Baluchi,Main Course
+Rava Dosa,South Indian,134,4.8,Pind Baluchi,Main Course
+Vada,South Indian,92,4.3,Pind Baluchi,Appetizer
+Kadhi Chawal,North Indian,127,4.5,Lazeez Darbar,Main Course
+Paneer Butter Masala,North Indian,255,4.9,Lazeez Darbar,Main Course
+Dal Makhani,North Indian,220,4.9,Lazeez Darbar,Main Course
+Aloo Paratha,North Indian,86,4.8,Lazeez Darbar,Main Course
+Chole Bhature,North Indian,174,4.4,Lazeez Darbar,Main Course
+Rajma Chawal,North Indian,244,4.9,Lazeez Darbar,Main Course
+Butter Naan,North Indian,65,4.9,Lazeez Darbar,Side
+Tandoori Roti,North Indian,41,3.9,Lazeez Darbar,Side
+Shahi Paneer,North Indian,342,4.1,Lazeez Darbar,Main Course
+Appam with Stew,South Indian,198,4.7,Lazeez Darbar,Main Course
+Idli Sambar,South Indian,120,4.3,Lazeez Darbar,Side
+Filter Coffee,South Indian,63,4.5,Lazeez Darbar,Beverage
+Vada,South Indian,73,3.9,Lazeez Darbar,Appetizer
+Pongal,South Indian,94,4.4,Lazeez Darbar,Main Course
+Masala Dosa,South Indian,124,4.4,Lazeez Darbar,Main Course
+Uttapam,South Indian,99,4.4,Lazeez Darbar,Main Course
+Kulfi,Desserts & Beverages,98,4.0,Chaat Junction,Dessert
+Falooda,Desserts & Beverages,120,4.4,Chaat Junction,Dessert
+Cold Coffee,Desserts & Beverages,157,5.0,Chaat Junction,Beverage
+Masala Chai,Desserts & Beverages,77,4.3,Chaat Junction,Beverage
+Mango Lassi,Desserts & Beverages,99,4.8,Chaat Junction,Beverage
+Badam Milk,Desserts & Beverages,85,4.0,Chaat Junction,Beverage
+Ice Cream Sundae,Desserts & Beverages,208,4.0,Chaat Junction,Dessert
+Rasgulla,Desserts & Beverages,93,4.6,Chaat Junction,Dessert
+Gulab Jamun,Desserts & Beverages,85,4.3,Chaat Junction,Dessert
+Dim Sum,Chinese,201,4.2,Chaat Junction,Appetizer
+Chili Paneer,Chinese,152,4.2,Chaat Junction,Appetizer
+Spring Rolls,Chinese,104,4.6,Chaat Junction,Appetizer
+Manchurian,Chinese,208,4.8,Chaat Junction,Main Course
+Schezwan Noodles,Chinese,214,4.2,Chaat Junction,Main Course
+Hot & Sour Soup,Chinese,123,4.6,Chaat Junction,Appetizer
+Fried Rice,Chinese,201,4.5,Chaat Junction,Side
+Butter Naan,North Indian,43,4.8,Chaat Junction,Side
+Aloo Paratha,North Indian,81,4.7,Chaat Junction,Main Course
+Rajma Chawal,North Indian,160,4.6,Chaat Junction,Main Course
+Shahi Paneer,North Indian,370,4.1,Chaat Junction,Main Course
+Paneer Butter Masala,North Indian,261,4.9,Chaat Junction,Main Course
+Chole Bhature,North Indian,169,4.8,Chaat Junction,Main Course
+Tandoori Roti,North Indian,58,4.2,Chaat Junction,Side
+Dal Makhani,North Indian,253,4.5,Chaat Junction,Main Course
+Schezwan Noodles,Chinese,238,4.5,Kathi Rolls Express,Main Course
+Hakka Noodles,Chinese,214,4.4,Kathi Rolls Express,Main Course
+Dim Sum,Chinese,171,4.5,Kathi Rolls Express,Appetizer
+Fried Rice,Chinese,204,4.3,Kathi Rolls Express,Side
+Hot & Sour Soup,Chinese,138,4.6,Kathi Rolls Express,Appetizer
+Falooda,Desserts & Beverages,136,4.3,Kathi Rolls Express,Dessert
+Ice Cream Sundae,Desserts & Beverages,234,4.0,Kathi Rolls Express,Dessert
+Gulab Jamun,Desserts & Beverages,54,4.5,Kathi Rolls Express,Dessert
+Mango Lassi,Desserts & Beverages,85,4.6,Kathi Rolls Express,Beverage
+Kulfi,Desserts & Beverages,83,4.4,Kathi Rolls Express,Dessert
+Rasgulla,Desserts & Beverages,58,3.9,Kathi Rolls Express,Dessert
+Cold Coffee,Desserts & Beverages,124,4.2,Kathi Rolls Express,Beverage
+Badam Milk,Desserts & Beverages,106,3.9,Kathi Rolls Express,Beverage
+Masala Chai,Desserts & Beverages,48,4.5,Kathi Rolls Express,Beverage
+Masala Chai,Desserts & Beverages,78,4.9,Bangalore Bites,Beverage
+Ice Cream Sundae,Desserts & Beverages,202,4.2,Bangalore Bites,Dessert
+Cold Coffee,Desserts & Beverages,111,5.0,Bangalore Bites,Beverage
+Falooda,Desserts & Beverages,163,4.0,Bangalore Bites,Dessert
+Gulab Jamun,Desserts & Beverages,89,4.0,Bangalore Bites,Dessert
+Badam Milk,Desserts & Beverages,99,4.5,Bangalore Bites,Beverage
+Rasgulla,Desserts & Beverages,103,4.4,Bangalore Bites,Dessert
+Kulfi,Desserts & Beverages,146,4.2,Bangalore Bites,Dessert
+Mango Lassi,Desserts & Beverages,83,4.8,Bangalore Bites,Beverage
+Rasgulla,Desserts & Beverages,70,4.0,Himalayan Kitchen,Dessert
+Cold Coffee,Desserts & Beverages,102,4.8,Himalayan Kitchen,Beverage
+Badam Milk,Desserts & Beverages,122,4.0,Himalayan Kitchen,Beverage
+Ice Cream Sundae,Desserts & Beverages,161,4.5,Himalayan Kitchen,Dessert
+Mango Lassi,Desserts & Beverages,148,4.5,Himalayan Kitchen,Beverage
+Falooda,Desserts & Beverages,158,4.4,Himalayan Kitchen,Dessert
+Gulab Jamun,Desserts & Beverages,72,4.5,Himalayan Kitchen,Dessert
+Kulfi,Desserts & Beverages,148,3.8,Himalayan Kitchen,Dessert
+Masala Chai,Desserts & Beverages,74,4.5,Himalayan Kitchen,Beverage
+Mysore Bonda,South Indian,135,4.7,Himalayan Kitchen,Appetizer
+Vada,South Indian,82,4.3,Himalayan Kitchen,Appetizer
+Pongal,South Indian,100,4.0,Himalayan Kitchen,Main Course
+Uttapam,South Indian,80,4.5,Himalayan Kitchen,Main Course
+Filter Coffee,South Indian,81,4.0,Himalayan Kitchen,Beverage
+Idli Sambar,South Indian,50,4.5,Himalayan Kitchen,Side
+Appam with Stew,South Indian,213,3.9,Himalayan Kitchen,Main Course
+Rava Dosa,South Indian,158,4.0,Himalayan Kitchen,Main Course
+Hakka Noodles,Chinese,176,4.9,The Grilled Affair,Main Course
+Chili Paneer,Chinese,159,3.8,The Grilled Affair,Appetizer
+Manchurian,Chinese,147,4.2,The Grilled Affair,Main Course
+Spring Rolls,Chinese,132,4.0,The Grilled Affair,Appetizer
+Dim Sum,Chinese,154,4.6,The Grilled Affair,Appetizer
+Fried Rice,Chinese,202,4.6,The Grilled Affair,Side
+Hot & Sour Soup,Chinese,120,4.4,The Grilled Affair,Appetizer
+Schezwan Noodles,Chinese,197,4.3,The Grilled Affair,Main Course
+Hot & Sour Soup,Chinese,159,4.8,Golden Spoon,Appetizer
+Spring Rolls,Chinese,158,4.8,Golden Spoon,Appetizer
+Fried Rice,Chinese,200,4.6,Golden Spoon,Side
+Hakka Noodles,Chinese,218,4.4,Golden Spoon,Main Course
+Dim Sum,Chinese,230,4.7,Golden Spoon,Appetizer
+Chili Paneer,Chinese,246,4.0,Golden Spoon,Appetizer
+Manchurian,Chinese,183,4.0,Golden Spoon,Main Course
+Mysore Bonda,South Indian,80,4.5,Golden Spoon,Appetizer
+Idli Sambar,South Indian,103,4.7,Golden Spoon,Side
+Pongal,South Indian,120,4.6,Golden Spoon,Main Course
+Uttapam,South Indian,79,4.6,Golden Spoon,Main Course
+Vada,South Indian,73,4.5,Golden Spoon,Appetizer
+Appam with Stew,South Indian,221,4.5,Golden Spoon,Main Course
+Filter Coffee,South Indian,43,3.8,Golden Spoon,Beverage
+Rava Dosa,South Indian,108,4.8,Golden Spoon,Main Course
+Masala Dosa,South Indian,85,4.4,Golden Spoon,Main Course
+Misal Pav,Street Food,156,4.0,Golden Spoon,Main Course
+Pani Puri,Street Food,43,4.1,Golden Spoon,Appetizer
+Sev Puri,Street Food,104,4.7,Golden Spoon,Appetizer
+Dahi Puri,Street Food,114,4.3,Golden Spoon,Appetizer
+Vada Pav,Street Food,76,4.6,Golden Spoon,Main Course
+Dabeli,Street Food,73,3.9,Golden Spoon,Main Course
+Samosa,Street Food,20,3.8,Golden Spoon,Appetizer
+Idli Sambar,South Indian,106,4.3,Crispy Crunch,Side
+Uttapam,South Indian,108,4.8,Crispy Crunch,Main Course
+Pongal,South Indian,96,4.0,Crispy Crunch,Main Course
+Masala Dosa,South Indian,98,4.9,Crispy Crunch,Main Course
+Vada,South Indian,99,4.7,Crispy Crunch,Appetizer
+Appam with Stew,South Indian,213,4.8,Crispy Crunch,Main Course
+Filter Coffee,South Indian,60,4.5,Crispy Crunch,Beverage
+Mysore Bonda,South Indian,146,4.4,Crispy Crunch,Appetizer
+Vada,South Indian,95,4.0,Dilli Wale Paratha,Appetizer
+Masala Dosa,South Indian,144,4.8,Dilli Wale Paratha,Main Course
+Mysore Bonda,South Indian,128,4.3,Dilli Wale Paratha,Appetizer
+Appam with Stew,South Indian,216,5.0,Dilli Wale Paratha,Main Course
+Rava Dosa,South Indian,152,4.7,Dilli Wale Paratha,Main Course
+Sev Puri,Street Food,80,4.6,The Midnight Crave,Appetizer
+Dahi Puri,Street Food,111,4.7,The Midnight Crave,Appetizer
+Vada Pav,Street Food,78,4.8,The Midnight Crave,Main Course
+Misal Pav,Street Food,111,4.8,The Midnight Crave,Main Course
+Samosa,Street Food,50,4.0,The Midnight Crave,Appetizer
+Pani Puri,Street Food,100,4.8,The Midnight Crave,Appetizer
+Pav Bhaji,Street Food,105,4.3,The Midnight Crave,Main Course
+Dal Makhani,North Indian,291,4.0,The Midnight Crave,Main Course
+Butter Naan,North Indian,50,5.0,The Midnight Crave,Side
+Rajma Chawal,North Indian,150,3.8,The Midnight Crave,Main Course
+Aloo Paratha,North Indian,82,3.9,The Midnight Crave,Main Course
+Shahi Paneer,North Indian,313,3.9,The Midnight Crave,Main Course
+Tandoori Roti,North Indian,43,4.6,The Midnight Crave,Side
+Paneer Butter Masala,North Indian,256,4.8,The Midnight Crave,Main Course
+Kadhi Chawal,North Indian,199,4.9,The Midnight Crave,Main Course
+Mysore Bonda,South Indian,104,3.9,The Midnight Crave,Appetizer
+Rava Dosa,South Indian,150,3.9,The Midnight Crave,Main Course
+Idli Sambar,South Indian,110,4.8,The Midnight Crave,Side
+Appam with Stew,South Indian,169,4.9,The Midnight Crave,Main Course
+Masala Dosa,South Indian,84,4.3,The Midnight Crave,Main Course
+Uttapam,South Indian,130,4.3,The Midnight Crave,Main Course
+Pani Puri,Street Food,97,4.5,Taste of Hyderabad,Appetizer
+Misal Pav,Street Food,108,4.6,Taste of Hyderabad,Main Course
+Pav Bhaji,Street Food,112,4.1,Taste of Hyderabad,Main Course
+Sev Puri,Street Food,106,3.8,Taste of Hyderabad,Appetizer
+Dabeli,Street Food,73,4.7,Taste of Hyderabad,Main Course
+Gulab Jamun,Desserts & Beverages,77,4.5,Taste of Hyderabad,Dessert
+Rasgulla,Desserts & Beverages,82,4.7,Taste of Hyderabad,Dessert
+Kulfi,Desserts & Beverages,142,4.0,Taste of Hyderabad,Dessert
+Cold Coffee,Desserts & Beverages,146,4.9,Taste of Hyderabad,Beverage
+Falooda,Desserts & Beverages,132,4.9,Taste of Hyderabad,Dessert
+Ice Cream Sundae,Desserts & Beverages,207,3.8,Taste of Hyderabad,Dessert
+Masala Chai,Desserts & Beverages,63,4.8,Taste of Hyderabad,Beverage
+Schezwan Noodles,Chinese,264,4.5,Taste of Hyderabad,Main Course
+Dim Sum,Chinese,235,4.1,Taste of Hyderabad,Appetizer
+Fried Rice,Chinese,197,4.5,Taste of Hyderabad,Side
+Hot & Sour Soup,Chinese,163,3.9,Taste of Hyderabad,Appetizer
+Manchurian,Chinese,179,4.3,Taste of Hyderabad,Main Course
+Spring Rolls,Chinese,122,4.6,Taste of Hyderabad,Appetizer
+Chili Paneer,Chinese,253,3.9,Taste of Hyderabad,Appetizer
+Hakka Noodles,Chinese,218,4.2,Taste of Hyderabad,Main Course
+Jeera Rice,Biryani & Rice,120,4.5,Nukkad Cafe,Side
+Egg Biryani,Biryani & Rice,220,4.9,Nukkad Cafe,Main Course
+Mutton Biryani,Biryani & Rice,468,4.8,Nukkad Cafe,Main Course
+Chicken Fried Rice,Biryani & Rice,280,4.7,Nukkad Cafe,Main Course
+Hyderabadi Biryani,Biryani & Rice,432,4.0,Nukkad Cafe,Main Course
+Veg Pulao,Biryani & Rice,209,4.9,Nukkad Cafe,Side
+Curd Rice,Biryani & Rice,118,4.8,Nukkad Cafe,Side
+Ghee Rice,Biryani & Rice,187,4.4,Nukkad Cafe,Side
+Manchurian,Chinese,204,4.8,Nukkad Cafe,Main Course
+Fried Rice,Chinese,179,3.9,Nukkad Cafe,Side
+Chili Paneer,Chinese,262,4.3,Nukkad Cafe,Appetizer
+Spring Rolls,Chinese,177,3.9,Nukkad Cafe,Appetizer
+Hot & Sour Soup,Chinese,136,4.3,Nukkad Cafe,Appetizer
+Dim Sum,Chinese,147,4.9,Nukkad Cafe,Appetizer
+Schezwan Noodles,Chinese,232,4.4,Nukkad Cafe,Main Course
+Shahi Paneer,North Indian,240,4.3,Heritage Kitchen,Main Course
+Paneer Butter Masala,North Indian,248,4.3,Heritage Kitchen,Main Course
+Tandoori Roti,North Indian,35,4.7,Heritage Kitchen,Side
+Aloo Paratha,North Indian,67,3.8,Heritage Kitchen,Main Course
+Kadhi Chawal,North Indian,162,4.5,Heritage Kitchen,Main Course
+Rajma Chawal,North Indian,160,5.0,Heritage Kitchen,Main Course
+Dal Makhani,North Indian,291,4.9,Heritage Kitchen,Main Course
+Chole Bhature,North Indian,142,4.0,Heritage Kitchen,Main Course
+Cold Coffee,Desserts & Beverages,143,4.7,Zayka Junction,Beverage
+Kulfi,Desserts & Beverages,102,4.5,Zayka Junction,Dessert
+Rasgulla,Desserts & Beverages,114,3.9,Zayka Junction,Dessert
+Ice Cream Sundae,Desserts & Beverages,238,4.2,Zayka Junction,Dessert
+Gulab Jamun,Desserts & Beverages,94,4.2,Zayka Junction,Dessert
+Falooda,Desserts & Beverages,139,3.8,Zayka Junction,Dessert
+Badam Milk,Desserts & Beverages,115,4.4,Zayka Junction,Beverage
+Mango Lassi,Desserts & Beverages,124,4.7,Zayka Junction,Beverage
+Masala Chai,Desserts & Beverages,31,4.9,Zayka Junction,Beverage
+Chili Paneer,Chinese,206,4.2,Zayka Junction,Appetizer
+Hakka Noodles,Chinese,241,4.9,Zayka Junction,Main Course
+Manchurian,Chinese,145,4.7,Zayka Junction,Main Course
+Dim Sum,Chinese,252,3.8,Zayka Junction,Appetizer
+Schezwan Noodles,Chinese,233,4.6,Zayka Junction,Main Course
+Spring Rolls,Chinese,152,4.8,Zayka Junction,Appetizer
+Fried Rice,Chinese,228,4.0,Zayka Junction,Side
+Hot & Sour Soup,Chinese,111,4.1,Zayka Junction,Appetizer
+Rasgulla,Desserts & Beverages,98,3.9,The Grand Tiffin,Dessert
+Mango Lassi,Desserts & Beverages,123,4.2,The Grand Tiffin,Beverage
+Ice Cream Sundae,Desserts & Beverages,164,5.0,The Grand Tiffin,Dessert
+Badam Milk,Desserts & Beverages,86,4.1,The Grand Tiffin,Beverage
+Kulfi,Desserts & Beverages,149,4.0,The Grand Tiffin,Dessert
+Gulab Jamun,Desserts & Beverages,67,4.0,The Grand Tiffin,Dessert
+Masala Chai,Desserts & Beverages,39,3.9,The Grand Tiffin,Beverage
+Falooda,Desserts & Beverages,170,4.9,The Grand Tiffin,Dessert
+Cold Coffee,Desserts & Beverages,143,4.6,The Grand Tiffin,Beverage
+Vada,South Indian,87,4.6,The Grand Tiffin,Appetizer
+Filter Coffee,South Indian,43,3.8,The Grand Tiffin,Beverage
+Idli Sambar,South Indian,74,5.0,The Grand Tiffin,Side
+Mysore Bonda,South Indian,85,4.3,The Grand Tiffin,Appetizer
+Uttapam,South Indian,108,4.3,The Grand Tiffin,Main Course
+Chicken Fried Rice,Biryani & Rice,306,4.0,The Street Eatery,Main Course
+Hyderabadi Biryani,Biryani & Rice,257,4.7,The Street Eatery,Main Course
+Ghee Rice,Biryani & Rice,186,3.8,The Street Eatery,Side
+Veg Pulao,Biryani & Rice,197,4.7,The Street Eatery,Side
+Jeera Rice,Biryani & Rice,100,4.9,The Street Eatery,Side
+Mutton Biryani,Biryani & Rice,374,4.4,The Street Eatery,Main Course
+Tandoori Roti,North Indian,35,4.3,The Street Eatery,Side
+Kadhi Chawal,North Indian,160,4.6,The Street Eatery,Main Course
+Chole Bhature,North Indian,103,4.7,The Street Eatery,Main Course
+Aloo Paratha,North Indian,112,4.7,The Street Eatery,Main Course
+Rajma Chawal,North Indian,176,3.9,The Street Eatery,Main Course
+Dal Makhani,North Indian,286,4.9,The Street Eatery,Main Course
+Hyderabadi Biryani,Biryani & Rice,354,5.0,Mughlai Magic,Main Course
+Chicken Fried Rice,Biryani & Rice,180,4.3,Mughlai Magic,Main Course
+Curd Rice,Biryani & Rice,123,4.0,Mughlai Magic,Side
+Jeera Rice,Biryani & Rice,134,4.2,Mughlai Magic,Side
+Egg Biryani,Biryani & Rice,274,4.1,Mughlai Magic,Main Course
+Veg Pulao,Biryani & Rice,190,4.3,Mughlai Magic,Side
+Dim Sum,Chinese,210,4.7,Mughlai Magic,Appetizer
+Hot & Sour Soup,Chinese,127,4.8,Mughlai Magic,Appetizer
+Fried Rice,Chinese,153,4.3,Mughlai Magic,Side
+Hakka Noodles,Chinese,223,4.2,Mughlai Magic,Main Course
+Manchurian,Chinese,188,4.3,Mughlai Magic,Main Course
+Spring Rolls,Chinese,170,4.3,Mughlai Magic,Appetizer
+Chili Paneer,Chinese,167,3.9,Mughlai Magic,Appetizer
+Schezwan Noodles,Chinese,267,4.2,Mughlai Magic,Main Course
+Fried Rice,Chinese,210,4.3,Bombay Bites,Side
+Manchurian,Chinese,173,3.8,Bombay Bites,Main Course
+Hot & Sour Soup,Chinese,133,4.5,Bombay Bites,Appetizer
+Schezwan Noodles,Chinese,214,4.9,Bombay Bites,Main Course
+Chili Paneer,Chinese,184,4.1,Bombay Bites,Appetizer
+Spring Rolls,Chinese,121,4.9,Bombay Bites,Appetizer
+Dabeli,Street Food,56,4.8,Bombay Bites,Main Course
+Dahi Puri,Street Food,94,3.8,Bombay Bites,Appetizer
+Pav Bhaji,Street Food,113,4.0,Bombay Bites,Main Course
+Vada Pav,Street Food,63,4.9,Bombay Bites,Main Course
+Samosa,Street Food,31,5.0,Bombay Bites,Appetizer
+Misal Pav,Street Food,152,3.9,Bombay Bites,Main Course
+Sev Puri,Street Food,72,4.0,Bombay Bites,Appetizer
+Pani Puri,Street Food,87,4.4,Bombay Bites,Appetizer
+Curd Rice,Biryani & Rice,105,4.1,Dosa Delight,Side
+Egg Biryani,Biryani & Rice,250,3.8,Dosa Delight,Main Course
+Mutton Biryani,Biryani & Rice,389,4.5,Dosa Delight,Main Course
+Chicken Fried Rice,Biryani & Rice,201,4.7,Dosa Delight,Main Course
+Veg Pulao,Biryani & Rice,246,4.7,Dosa Delight,Side
+Ghee Rice,Biryani & Rice,191,4.4,Dosa Delight,Side
+Jeera Rice,Biryani & Rice,105,4.9,Dosa Delight,Side
+Hyderabadi Biryani,Biryani & Rice,291,4.1,Dosa Delight,Main Course
+Shahi Paneer,North Indian,313,4.6,Dosa Delight,Main Course
+Paneer Butter Masala,North Indian,204,3.9,Dosa Delight,Main Course
+Butter Naan,North Indian,54,4.3,Dosa Delight,Side
+Chole Bhature,North Indian,124,4.8,Dosa Delight,Main Course
+Aloo Paratha,North Indian,59,4.7,Dosa Delight,Main Course
+Tandoori Roti,North Indian,38,4.6,Dosa Delight,Side
+Gulab Jamun,Desserts & Beverages,101,3.9,Dosa Delight,Dessert
+Masala Chai,Desserts & Beverages,68,3.9,Dosa Delight,Beverage
+Rasgulla,Desserts & Beverages,55,4.2,Dosa Delight,Dessert
+Kulfi,Desserts & Beverages,139,4.6,Dosa Delight,Dessert
+Cold Coffee,Desserts & Beverages,141,4.9,Dosa Delight,Beverage
+Badam Milk,Desserts & Beverages,93,4.7,Dosa Delight,Beverage
+Ice Cream Sundae,Desserts & Beverages,156,4.1,Dosa Delight,Dessert
+Falooda,Desserts & Beverages,186,4.8,Dosa Delight,Dessert
+Fried Rice,Chinese,143,4.9,Taste of Kerala,Side
+Hakka Noodles,Chinese,166,4.8,Taste of Kerala,Main Course
+Spring Rolls,Chinese,172,4.5,Taste of Kerala,Appetizer
+Chili Paneer,Chinese,208,4.9,Taste of Kerala,Appetizer
+Manchurian,Chinese,145,4.1,Taste of Kerala,Main Course
+Dim Sum,Chinese,140,4.9,Taste of Kerala,Appetizer
+Hot & Sour Soup,Chinese,148,4.3,Taste of Kerala,Appetizer
+Schezwan Noodles,Chinese,222,4.0,Taste of Kerala,Main Course
+Hyderabadi Biryani,Biryani & Rice,289,4.5,Taste of Kerala,Main Course
+Veg Pulao,Biryani & Rice,234,4.1,Taste of Kerala,Side
+Chicken Fried Rice,Biryani & Rice,200,4.7,Taste of Kerala,Main Course
+Mutton Biryani,Biryani & Rice,463,3.8,Taste of Kerala,Main Course
+Ghee Rice,Biryani & Rice,156,3.8,Taste of Kerala,Side
+Ghee Rice,Biryani & Rice,175,4.0,Flavors of South,Side
+Veg Pulao,Biryani & Rice,184,4.4,Flavors of South,Side
+Egg Biryani,Biryani & Rice,227,4.1,Flavors of South,Main Course
+Hyderabadi Biryani,Biryani & Rice,362,4.3,Flavors of South,Main Course
+Jeera Rice,Biryani & Rice,129,4.7,Flavors of South,Side
+Chili Paneer,Chinese,196,4.0,Fusion Delight,Appetizer
+Schezwan Noodles,Chinese,165,4.5,Fusion Delight,Main Course
+Hot & Sour Soup,Chinese,146,3.9,Fusion Delight,Appetizer
+Spring Rolls,Chinese,103,3.9,Fusion Delight,Appetizer
+Fried Rice,Chinese,147,4.9,Fusion Delight,Side
+Butter Naan,North Indian,80,4.5,South Spice,Side
+Tandoori Roti,North Indian,51,4.4,South Spice,Side
+Chole Bhature,North Indian,112,3.9,South Spice,Main Course
+Paneer Butter Masala,North Indian,253,4.7,South Spice,Main Course
+Rajma Chawal,North Indian,168,4.1,South Spice,Main Course
+Shahi Paneer,North Indian,268,4.7,South Spice,Main Course
+Dal Makhani,North Indian,214,4.8,South Spice,Main Course
+Aloo Paratha,North Indian,63,4.8,South Spice,Main Course
+Kadhi Chawal,North Indian,159,4.2,South Spice,Main Course
+Shahi Paneer,North Indian,344,4.8,Tandoori Treats,Main Course
+Tandoori Roti,North Indian,66,4.2,Tandoori Treats,Side
+Rajma Chawal,North Indian,185,4.9,Tandoori Treats,Main Course
+Aloo Paratha,North Indian,84,4.5,Tandoori Treats,Main Course
+Kadhi Chawal,North Indian,156,4.8,Tandoori Treats,Main Course
+Paneer Butter Masala,North Indian,207,4.0,Tandoori Treats,Main Course
+Butter Naan,North Indian,63,4.4,Tandoori Treats,Side
+Dal Makhani,North Indian,300,4.5,Tandoori Treats,Main Course
+Chole Bhature,North Indian,115,4.0,Tandoori Treats,Main Course
+Vada,South Indian,52,3.9,Tandoori Treats,Appetizer
+Appam with Stew,South Indian,228,4.7,Tandoori Treats,Main Course
+Filter Coffee,South Indian,46,4.7,Tandoori Treats,Beverage
+Mysore Bonda,South Indian,104,4.5,Tandoori Treats,Appetizer
+Masala Dosa,South Indian,111,4.9,Tandoori Treats,Main Course
+Idli Sambar,South Indian,102,4.3,Tandoori Treats,Side
+Uttapam,South Indian,124,4.3,Tandoori Treats,Main Course
+Rava Dosa,South Indian,153,4.8,Tandoori Treats,Main Course
+Pongal,South Indian,109,4.1,Tandoori Treats,Main Course
+Tandoori Roti,North Indian,47,4.1,Kolkata Mishti,Side
+Aloo Paratha,North Indian,106,4.6,Kolkata Mishti,Main Course
+Rajma Chawal,North Indian,162,4.8,Kolkata Mishti,Main Course
+Butter Naan,North Indian,50,4.1,Kolkata Mishti,Side
+Chole Bhature,North Indian,118,4.8,Kolkata Mishti,Main Course
+Paneer Butter Masala,North Indian,304,4.2,Kolkata Mishti,Main Course
+Shahi Paneer,North Indian,297,4.9,Kolkata Mishti,Main Course
+Dal Makhani,North Indian,228,4.6,Kolkata Mishti,Main Course
+Rasgulla,Desserts & Beverages,85,4.6,Momo Mania,Dessert
+Cold Coffee,Desserts & Beverages,154,4.5,Momo Mania,Beverage
+Kulfi,Desserts & Beverages,118,4.5,Momo Mania,Dessert
+Falooda,Desserts & Beverages,133,4.1,Momo Mania,Dessert
+Gulab Jamun,Desserts & Beverages,69,4.6,Momo Mania,Dessert
+Masala Chai,Desserts & Beverages,67,4.8,Momo Mania,Beverage
+Ice Cream Sundae,Desserts & Beverages,198,4.1,Momo Mania,Dessert
+Mango Lassi,Desserts & Beverages,103,4.8,Momo Mania,Beverage
+Sev Puri,Street Food,101,4.6,Cafe Aroma,Appetizer
+Samosa,Street Food,47,4.9,Cafe Aroma,Appetizer
+Dahi Puri,Street Food,84,4.6,Cafe Aroma,Appetizer
+Vada Pav,Street Food,60,4.4,Cafe Aroma,Main Course
+Dabeli,Street Food,59,4.0,Cafe Aroma,Main Course
+Pav Bhaji,Street Food,157,4.8,Cafe Aroma,Main Course
+Pani Puri,Street Food,51,4.3,Cafe Aroma,Appetizer
+Misal Pav,Street Food,137,4.2,Cafe Aroma,Main Course
+Fried Rice,Chinese,159,4.1,Cafe Aroma,Side
+Dim Sum,Chinese,191,4.4,Cafe Aroma,Appetizer
+Spring Rolls,Chinese,157,4.5,Cafe Aroma,Appetizer
+Manchurian,Chinese,200,4.2,Cafe Aroma,Main Course
+Hot & Sour Soup,Chinese,161,4.6,Cafe Aroma,Appetizer
+Chili Paneer,Chinese,224,4.8,Cafe Aroma,Appetizer
+Hakka Noodles,Chinese,205,4.2,Cafe Aroma,Main Course
+Schezwan Noodles,Chinese,171,4.3,Cafe Aroma,Main Course
+Ghee Rice,Biryani & Rice,192,5.0,Cafe Aroma,Side
+Hyderabadi Biryani,Biryani & Rice,367,4.2,Cafe Aroma,Main Course
+Curd Rice,Biryani & Rice,133,4.8,Cafe Aroma,Side
+Veg Pulao,Biryani & Rice,159,4.2,Cafe Aroma,Side
+Mutton Biryani,Biryani & Rice,464,4.6,Cafe Aroma,Main Course
+Jeera Rice,Biryani & Rice,103,4.2,Cafe Aroma,Side
+Chicken Fried Rice,Biryani & Rice,183,3.9,Cafe Aroma,Main Course
+Egg Biryani,Biryani & Rice,209,4.1,Cafe Aroma,Main Course
+Vada Pav,Street Food,51,4.5,Sweet Symphony,Main Course
+Pani Puri,Street Food,59,4.4,Sweet Symphony,Appetizer
+Dahi Puri,Street Food,100,4.1,Sweet Symphony,Appetizer
+Sev Puri,Street Food,97,4.8,Sweet Symphony,Appetizer
+Misal Pav,Street Food,99,4.6,Sweet Symphony,Main Course
+Samosa,Street Food,60,3.9,Sweet Symphony,Appetizer
+Dabeli,Street Food,70,5.0,Sweet Symphony,Main Course
+Pav Bhaji,Street Food,138,4.1,Sweet Symphony,Main Course
+Manchurian,Chinese,162,4.4,Royal Biryani House,Main Course
+Schezwan Noodles,Chinese,169,4.8,Royal Biryani House,Main Course
+Fried Rice,Chinese,205,4.3,Royal Biryani House,Side
+Hakka Noodles,Chinese,183,3.9,Royal Biryani House,Main Course
+Hot & Sour Soup,Chinese,166,4.3,Royal Biryani House,Appetizer
+Dim Sum,Chinese,169,4.5,Royal Biryani House,Appetizer
+Chili Paneer,Chinese,228,4.1,Royal Biryani House,Appetizer
+Spring Rolls,Chinese,145,4.4,Royal Biryani House,Appetizer
+Pani Puri,Street Food,79,5.0,Royal Biryani House,Appetizer
+Sev Puri,Street Food,136,3.9,Royal Biryani House,Appetizer
+Dabeli,Street Food,70,4.5,Royal Biryani House,Main Course
+Vada Pav,Street Food,52,4.5,Royal Biryani House,Main Course
+Dahi Puri,Street Food,138,4.0,Royal Biryani House,Appetizer
+Samosa,Street Food,60,3.9,Royal Biryani House,Appetizer
+Pav Bhaji,Street Food,112,4.9,Royal Biryani House,Main Course
+Misal Pav,Street Food,129,3.8,Royal Biryani House,Main Course
+Chicken Fried Rice,Biryani & Rice,313,4.0,Royal Biryani House,Main Course
+Veg Pulao,Biryani & Rice,222,3.8,Royal Biryani House,Side
+Hyderabadi Biryani,Biryani & Rice,307,4.8,Royal Biryani House,Main Course
+Mutton Biryani,Biryani & Rice,354,4.5,Royal Biryani House,Main Course
+Curd Rice,Biryani & Rice,119,4.3,Royal Biryani House,Side
+Ghee Rice,Biryani & Rice,120,4.6,Royal Biryani House,Side
+Jeera Rice,Biryani & Rice,111,4.9,Royal Biryani House,Side
+Egg Biryani,Biryani & Rice,280,4.5,Royal Biryani House,Main Course
+Vada,South Indian,71,4.1,Barbecue Nation,Appetizer
+Masala Dosa,South Indian,129,3.8,Barbecue Nation,Main Course
+Pongal,South Indian,81,4.5,Barbecue Nation,Main Course
+Appam with Stew,South Indian,249,4.2,Barbecue Nation,Main Course
+Filter Coffee,South Indian,70,4.0,Barbecue Nation,Beverage
+Rava Dosa,South Indian,129,4.8,Barbecue Nation,Main Course
+Uttapam,South Indian,114,5.0,Barbecue Nation,Main Course
+Mysore Bonda,South Indian,91,4.4,Barbecue Nation,Appetizer
+Pani Puri,Street Food,41,4.1,Biryani Blues,Appetizer
+Pav Bhaji,Street Food,126,4.6,Biryani Blues,Main Course
+Sev Puri,Street Food,137,4.3,Biryani Blues,Appetizer
+Misal Pav,Street Food,137,3.8,Biryani Blues,Main Course
+Vada Pav,Street Food,61,4.5,Biryani Blues,Main Course
+Kulfi,Desserts & Beverages,143,4.6,Biryani Blues,Dessert
+Mango Lassi,Desserts & Beverages,94,4.9,Biryani Blues,Beverage
+Masala Chai,Desserts & Beverages,70,4.9,Biryani Blues,Beverage
+Cold Coffee,Desserts & Beverages,160,4.2,Biryani Blues,Beverage
+Gulab Jamun,Desserts & Beverages,117,4.3,Biryani Blues,Dessert
+Badam Milk,Desserts & Beverages,64,4.8,Biryani Blues,Beverage
+Falooda,Desserts & Beverages,172,4.0,Biryani Blues,Dessert
+Rasgulla,Desserts & Beverages,89,4.9,Biryani Blues,Dessert
+Ice Cream Sundae,Desserts & Beverages,197,4.3,Biryani Blues,Dessert
+Uttapam,South Indian,127,4.9,Biryani Blues,Main Course
+Masala Dosa,South Indian,142,4.0,Biryani Blues,Main Course
+Appam with Stew,South Indian,186,4.2,Biryani Blues,Main Course
+Pongal,South Indian,99,4.7,Biryani Blues,Main Course
+Rava Dosa,South Indian,91,4.3,Biryani Blues,Main Course
+Vada,South Indian,94,4.4,Biryani Blues,Appetizer
+Mysore Bonda,South Indian,89,4.4,Biryani Blues,Appetizer
+Idli Sambar,South Indian,70,4.8,Biryani Blues,Side
+Filter Coffee,South Indian,51,3.8,Biryani Blues,Beverage
+Filter Coffee,South Indian,74,4.8,Spices & Herbs,Beverage
+Uttapam,South Indian,97,3.8,Spices & Herbs,Main Course
+Vada,South Indian,43,4.8,Spices & Herbs,Appetizer
+Mysore Bonda,South Indian,109,4.1,Spices & Herbs,Appetizer
+Rava Dosa,South Indian,92,4.1,Spices & Herbs,Main Course
+Idli Sambar,South Indian,74,4.3,Spices & Herbs,Side
+Rasgulla,Desserts & Beverages,73,4.1,Spices & Herbs,Dessert
+Kulfi,Desserts & Beverages,126,4.3,Spices & Herbs,Dessert
+Falooda,Desserts & Beverages,168,4.5,Spices & Herbs,Dessert
+Mango Lassi,Desserts & Beverages,84,4.7,Spices & Herbs,Beverage
+Masala Chai,Desserts & Beverages,41,4.0,Spices & Herbs,Beverage
+Cold Coffee,Desserts & Beverages,158,4.0,Spices & Herbs,Beverage
+Ice Cream Sundae,Desserts & Beverages,163,4.1,Spices & Herbs,Dessert
+Gulab Jamun,Desserts & Beverages,51,4.6,Spices & Herbs,Dessert
+Badam Milk,Desserts & Beverages,94,3.8,Spices & Herbs,Beverage
+Dahi Puri,Street Food,148,4.8,Spices & Herbs,Appetizer
+Misal Pav,Street Food,119,4.3,Spices & Herbs,Main Course
+Sev Puri,Street Food,99,4.5,Spices & Herbs,Appetizer
+Vada Pav,Street Food,54,3.9,Spices & Herbs,Main Course
+Samosa,Street Food,31,4.8,Spices & Herbs,Appetizer
+Pav Bhaji,Street Food,148,3.9,Spices & Herbs,Main Course
+Pani Puri,Street Food,91,3.8,Spices & Herbs,Appetizer
+Dabeli,Street Food,56,4.7,Spices & Herbs,Main Course
+Masala Chai,Desserts & Beverages,49,4.0,Kolkata Rolls,Beverage
+Badam Milk,Desserts & Beverages,70,4.5,Kolkata Rolls,Beverage
+Gulab Jamun,Desserts & Beverages,66,3.9,Kolkata Rolls,Dessert
+Cold Coffee,Desserts & Beverages,127,4.4,Kolkata Rolls,Beverage
+Mango Lassi,Desserts & Beverages,107,4.1,Kolkata Rolls,Beverage
+Rasgulla,Desserts & Beverages,102,4.0,Kolkata Rolls,Dessert
+Ice Cream Sundae,Desserts & Beverages,180,4.1,Kolkata Rolls,Dessert
+Tandoori Roti,North Indian,39,4.8,Kolkata Rolls,Side
+Paneer Butter Masala,North Indian,246,4.8,Kolkata Rolls,Main Course
+Aloo Paratha,North Indian,79,4.9,Kolkata Rolls,Main Course
+Chole Bhature,North Indian,178,4.1,Kolkata Rolls,Main Course
+Kadhi Chawal,North Indian,139,4.4,Kolkata Rolls,Main Course
+Shahi Paneer,North Indian,298,3.9,Kolkata Rolls,Main Course
+Rajma Chawal,North Indian,159,4.4,Kolkata Rolls,Main Course
+Butter Naan,North Indian,57,4.6,Kolkata Rolls,Side
+Dal Makhani,North Indian,277,4.3,Kolkata Rolls,Main Course
+Kulfi,Desserts & Beverages,131,4.7,Authentic Flavors,Dessert
+Falooda,Desserts & Beverages,138,3.9,Authentic Flavors,Dessert
+Badam Milk,Desserts & Beverages,63,4.3,Authentic Flavors,Beverage
+Ice Cream Sundae,Desserts & Beverages,241,4.3,Authentic Flavors,Dessert
+Masala Chai,Desserts & Beverages,50,4.6,Authentic Flavors,Beverage
+Mango Lassi,Desserts & Beverages,111,4.7,Authentic Flavors,Beverage
+Rasgulla,Desserts & Beverages,120,4.0,Authentic Flavors,Dessert
+Cold Coffee,Desserts & Beverages,148,4.9,Authentic Flavors,Beverage
+Gulab Jamun,Desserts & Beverages,98,4.3,Authentic Flavors,Dessert
+Curd Rice,Biryani & Rice,129,4.0,Indori Chatpata,Side
+Hyderabadi Biryani,Biryani & Rice,275,4.0,Indori Chatpata,Main Course
+Ghee Rice,Biryani & Rice,143,3.8,Indori Chatpata,Side
+Chicken Fried Rice,Biryani & Rice,292,4.6,Indori Chatpata,Main Course
+Jeera Rice,Biryani & Rice,146,4.3,Indori Chatpata,Side
+Mutton Biryani,Biryani & Rice,368,4.5,Indori Chatpata,Main Course
+Egg Biryani,Biryani & Rice,293,4.5,Indori Chatpata,Main Course
+Veg Pulao,Biryani & Rice,190,4.5,Indori Chatpata,Side
+Vada Pav,Street Food,43,4.8,Indori Chatpata,Main Course
+Dahi Puri,Street Food,147,4.4,Indori Chatpata,Appetizer
+Dabeli,Street Food,72,4.0,Indori Chatpata,Main Course
+Samosa,Street Food,33,4.5,Indori Chatpata,Appetizer
+Misal Pav,Street Food,105,4.6,Indori Chatpata,Main Course
+Pani Puri,Street Food,58,4.9,Indori Chatpata,Appetizer
+Sev Puri,Street Food,77,4.3,Indori Chatpata,Appetizer
+Pav Bhaji,Street Food,152,4.4,Indori Chatpata,Main Course
+Aloo Paratha,North Indian,89,4.8,Rajasthan Rasoi,Main Course
+Paneer Butter Masala,North Indian,228,3.9,Rajasthan Rasoi,Main Course
+Chole Bhature,North Indian,155,4.5,Rajasthan Rasoi,Main Course
+Dal Makhani,North Indian,227,4.0,Rajasthan Rasoi,Main Course
+Kadhi Chawal,North Indian,150,4.2,Rajasthan Rasoi,Main Course
+Rajma Chawal,North Indian,198,4.1,Rajasthan Rasoi,Main Course
+Kadhi Chawal,North Indian,181,4.4,Lucknowi Handi,Main Course
+Rajma Chawal,North Indian,221,4.9,Lucknowi Handi,Main Course
+Butter Naan,North Indian,53,4.8,Lucknowi Handi,Side
+Tandoori Roti,North Indian,45,4.3,Lucknowi Handi,Side
+Chole Bhature,North Indian,157,3.9,Lucknowi Handi,Main Course
+Dal Makhani,North Indian,188,5.0,Lucknowi Handi,Main Course
+Paneer Butter Masala,North Indian,245,4.1,Lucknowi Handi,Main Course
+Shahi Paneer,North Indian,373,4.1,Lucknowi Handi,Main Course
+Aloo Paratha,North Indian,91,4.8,Lucknowi Handi,Main Course
+Egg Biryani,Biryani & Rice,324,4.3,Lucknowi Handi,Main Course
+Chicken Fried Rice,Biryani & Rice,254,4.7,Lucknowi Handi,Main Course
+Hyderabadi Biryani,Biryani & Rice,292,4.3,Lucknowi Handi,Main Course
+Ghee Rice,Biryani & Rice,140,4.4,Lucknowi Handi,Side
+Jeera Rice,Biryani & Rice,143,4.8,Lucknowi Handi,Side
+Veg Pulao,Biryani & Rice,187,4.5,Lucknowi Handi,Side
+Curd Rice,Biryani & Rice,128,3.9,Lucknowi Handi,Side
+Mutton Biryani,Biryani & Rice,535,5.0,Lucknowi Handi,Main Course
+Filter Coffee,South Indian,75,4.6,Lucknowi Handi,Beverage
+Vada,South Indian,77,4.9,Lucknowi Handi,Appetizer
+Masala Dosa,South Indian,126,4.2,Lucknowi Handi,Main Course
+Idli Sambar,South Indian,93,4.2,Lucknowi Handi,Side
+Mysore Bonda,South Indian,95,3.9,Lucknowi Handi,Appetizer
+Uttapam,South Indian,87,4.1,Lucknowi Handi,Main Course
+Appam with Stew,South Indian,178,3.9,Lucknowi Handi,Main Course
+Rava Dosa,South Indian,161,3.8,Lucknowi Handi,Main Course
+Pongal,South Indian,110,4.9,Lucknowi Handi,Main Course
+Kadhi Chawal,North Indian,137,4.0,Andhra Spice,Main Course
+Butter Naan,North Indian,66,4.6,Andhra Spice,Side
+Aloo Paratha,North Indian,61,4.6,Andhra Spice,Main Course
+Chole Bhature,North Indian,118,4.8,Andhra Spice,Main Course
+Shahi Paneer,North Indian,303,4.2,Andhra Spice,Main Course
+Tandoori Roti,North Indian,57,4.3,Andhra Spice,Side
+Jeera Rice,Biryani & Rice,134,4.3,Andhra Spice,Side
+Mutton Biryani,Biryani & Rice,316,3.9,Andhra Spice,Main Course
+Hyderabadi Biryani,Biryani & Rice,364,4.8,Andhra Spice,Main Course
+Chicken Fried Rice,Biryani & Rice,309,4.7,Andhra Spice,Main Course
+Egg Biryani,Biryani & Rice,338,4.3,Andhra Spice,Main Course
+Ghee Rice,Biryani & Rice,178,4.5,Andhra Spice,Side
+Hakka Noodles,Chinese,205,4.5,Andhra Spice,Main Course
+Dim Sum,Chinese,167,4.5,Andhra Spice,Appetizer
+Fried Rice,Chinese,138,4.0,Andhra Spice,Side
+Schezwan Noodles,Chinese,193,4.8,Andhra Spice,Main Course
+Chili Paneer,Chinese,257,4.0,Andhra Spice,Appetizer
+Manchurian,Chinese,183,3.8,Andhra Spice,Main Course
+Hot & Sour Soup,Chinese,121,4.0,Andhra Spice,Appetizer
+Spring Rolls,Chinese,119,4.7,Andhra Spice,Appetizer
+Mysore Bonda,South Indian,103,3.9,Punjabi Dhaba,Appetizer
+Masala Dosa,South Indian,133,4.6,Punjabi Dhaba,Main Course
+Rava Dosa,South Indian,144,4.2,Punjabi Dhaba,Main Course
+Pongal,South Indian,101,4.9,Punjabi Dhaba,Main Course
+Filter Coffee,South Indian,44,4.7,Punjabi Dhaba,Beverage
+Uttapam,South Indian,105,4.5,Punjabi Dhaba,Main Course
+Vada,South Indian,99,4.0,Punjabi Dhaba,Appetizer
+Idli Sambar,South Indian,60,4.4,Punjabi Dhaba,Side
+Appam with Stew,South Indian,158,4.4,Punjabi Dhaba,Main Course
+Fried Rice,Chinese,142,4.6,Punjabi Dhaba,Side
+Dim Sum,Chinese,189,4.8,Punjabi Dhaba,Appetizer
+Chili Paneer,Chinese,165,3.9,Punjabi Dhaba,Appetizer
+Manchurian,Chinese,154,4.0,Punjabi Dhaba,Main Course
+Schezwan Noodles,Chinese,249,4.3,Punjabi Dhaba,Main Course

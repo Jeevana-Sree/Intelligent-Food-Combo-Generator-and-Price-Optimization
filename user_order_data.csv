@@ -1,0 +1,603 @@
+﻿User ID,Restaurant Name,Dish Name,Cuisine,Price,Order Date & Time,Order Quantity,Total Price,Rating Given,Special Requests
+U037,Andhra Spice,Butter Naan,North Indian,66,2025-01-01 01:55:00,2,132,4.0,
+U041,Golden Spoon,Misal Pav,Street Food,156,2025-01-01 02:02:00,1,156,3.4,
+U039,Kolkata Mishti,Paneer Butter Masala,North Indian,304,2025-01-01 02:25:00,2,608,,extra veggies
+U019,Lazeez Darbar,Shahi Paneer,North Indian,342,2025-01-01 04:27:00,3,1026,,
+U032,Zayka Junction,Mango Lassi,Desserts & Beverages,124,2025-01-01 23:19:00,3,372,,
+U038,The Grilled Affair,Spring Rolls,Chinese,132,2025-01-02 04:42:00,2,264,3.4,extra spicy
+U041,Golden Spoon,Manchurian,Chinese,183,2025-01-02 07:45:00,3,549,,
+U015,Biryani Blues,Cold Coffee,Desserts & Beverages,160,2025-01-02 11:07:00,2,320,3.7,
+U046,Bombay Bites,Dabeli,Street Food,56,2025-01-02 11:34:00,1,56,4.5,
+U002,Spices & Herbs,Idli Sambar,South Indian,74,2025-01-02 11:42:00,1,74,,
+U048,Fusion Delight,Hot & Sour Soup,Chinese,146,2025-01-02 13:44:00,3,438,,extra spicy
+U043,Dosa Delight,Kulfi,Desserts & Beverages,139,2025-01-02 18:32:00,1,139,,
+U034,Dosa Delight,Curd Rice,Biryani & Rice,105,2025-01-02 19:41:00,3,315,,
+U046,Spices & Herbs,Pani Puri,Street Food,91,2025-01-02 23:06:00,1,91,3.1,
+U045,Royal Biryani House,Hot & Sour Soup,Chinese,166,2025-01-02 23:55:00,1,166,4.0,no salt
+U020,Sweet Symphony,Sev Puri,Street Food,97,2025-01-03 05:24:00,2,194,4.6,
+U006,Bangalore Bites,Mango Lassi,Desserts & Beverages,83,2025-01-03 05:34:00,2,166,4.7,
+U041,Lucknowi Handi,Chicken Fried Rice,Biryani & Rice,254,2025-01-03 06:50:00,2,508,,
+U009,Cafe Aroma,Mutton Biryani,Biryani & Rice,464,2025-01-03 07:04:00,3,1392,,no onions
+U032,The Grand Tiffin,Badam Milk,Desserts & Beverages,86,2025-01-03 10:42:00,1,86,3.4,
+U038,The Midnight Crave,Masala Dosa,South Indian,84,2025-01-03 13:34:00,2,168,,
+U029,Golden Spoon,Masala Dosa,South Indian,85,2025-01-04 01:29:00,3,255,3.3,
+U018,Chaat Junction,Badam Milk,Desserts & Beverages,85,2025-01-04 02:26:00,3,255,,
+U014,Nukkad Cafe,Manchurian,Chinese,204,2025-01-04 08:09:00,2,408,,
+U005,Spices & Herbs,Dahi Puri,Street Food,148,2025-01-04 09:42:00,2,296,,
+U029,Tandoori Treats,Vada,South Indian,52,2025-01-04 14:34:00,3,156,4.2,
+U032,Barbecue Nation,Appam with Stew,South Indian,249,2025-01-04 20:46:00,3,747,,
+U034,Rajasthan Rasoi,Rajma Chawal,North Indian,198,2025-01-04 22:37:00,2,396,3.2,
+U007,Himalayan Kitchen,Rava Dosa,South Indian,158,2025-01-04 23:54:00,1,158,,no onions
+U017,Andhra Spice,Spring Rolls,Chinese,119,2025-01-04 23:54:00,1,119,,
+U036,Cafe Aroma,Spring Rolls,Chinese,157,2025-01-05 01:27:00,1,157,,
+U036,Bangalore Bites,Rasgulla,Desserts & Beverages,103,2025-01-05 03:56:00,1,103,4.3,
+U007,South Spice,Chole Bhature,North Indian,112,2025-01-05 04:02:00,1,112,3.2,
+U044,Rajasthan Rasoi,Paneer Butter Masala,North Indian,228,2025-01-05 05:29:00,1,228,,
+U015,Biryani Blues,Masala Chai,Desserts & Beverages,70,2025-01-05 06:45:00,2,140,3.9,no garlic
+U001,The Street Eatery,Rajma Chawal,North Indian,176,2025-01-05 09:52:00,2,352,4.4,well done
+U050,Kolkata Rolls,Cold Coffee,Desserts & Beverages,127,2025-01-05 13:47:00,3,381,,
+U002,Fusion Delight,Chili Paneer,Chinese,196,2025-01-05 14:51:00,2,392,,
+U021,Dosa Delight,Kulfi,Desserts & Beverages,139,2025-01-05 22:51:00,1,139,,
+U002,Fusion Delight,Fried Rice,Chinese,147,2025-01-05 23:05:00,2,294,4.9,
+U042,Golden Spoon,Vada Pav,Street Food,76,2025-01-06 01:39:00,1,76,3.6,less oil
+U050,Indori Chatpata,Chicken Fried Rice,Biryani & Rice,292,2025-01-06 02:05:00,3,876,4.8,
+U034,Lazeez Darbar,Rajma Chawal,North Indian,244,2025-01-06 06:40:00,2,488,,
+U018,Chaat Junction,Cold Coffee,Desserts & Beverages,157,2025-01-06 06:45:00,3,471,,
+U004,Lucknowi Handi,Paneer Butter Masala,North Indian,245,2025-01-06 08:16:00,3,735,4.8,
+U011,The Grilled Affair,Hakka Noodles,Chinese,176,2025-01-06 17:06:00,1,176,3.8,
+U006,Pind Baluchi,Dahi Puri,Street Food,120,2025-01-06 23:48:00,1,120,,extra spicy
+U010,Kolkata Mishti,Paneer Butter Masala,North Indian,304,2025-01-07 00:09:00,1,304,,
+U036,Bangalore Bites,Badam Milk,Desserts & Beverages,99,2025-01-07 00:47:00,3,297,,
+U014,Himalayan Kitchen,Filter Coffee,South Indian,81,2025-01-07 02:50:00,1,81,4.5,
+U006,The Street Eatery,Chicken Fried Rice,Biryani & Rice,306,2025-01-07 07:34:00,2,612,,
+U012,Heritage Kitchen,Chole Bhature,North Indian,142,2025-01-07 11:17:00,1,142,,
+U050,Andhra Spice,Hyderabadi Biryani,Biryani & Rice,364,2025-01-07 12:58:00,3,1092,4.0,
+U012,Lucknowi Handi,Paneer Butter Masala,North Indian,245,2025-01-07 13:21:00,1,245,4.4,
+U042,Taste of Hyderabad,Spring Rolls,Chinese,122,2025-01-07 14:22:00,2,244,,
+U032,The Grand Tiffin,Rasgulla,Desserts & Beverages,98,2025-01-07 16:30:00,2,196,,
+U023,The Street Eatery,Chicken Fried Rice,Biryani & Rice,306,2025-01-07 18:23:00,2,612,,mild flavor
+U041,Golden Spoon,Hot & Sour Soup,Chinese,159,2025-01-07 18:57:00,3,477,,
+U017,Flavors of South,Veg Pulao,Biryani & Rice,184,2025-01-07 19:28:00,1,184,,
+U050,Indori Chatpata,Ghee Rice,Biryani & Rice,143,2025-01-08 03:31:00,1,143,,
+U032,The Grand Tiffin,Badam Milk,Desserts & Beverages,86,2025-01-08 04:57:00,3,258,3.8,mild flavor
+U036,Bangalore Bites,Cold Coffee,Desserts & Beverages,111,2025-01-08 05:39:00,3,333,3.0,
+U018,Spices & Herbs,Ice Cream Sundae,Desserts & Beverages,163,2025-01-08 13:12:00,3,489,3.3,
+U048,Tandoori Treats,Dal Makhani,North Indian,300,2025-01-08 13:18:00,1,300,,mild flavor
+U032,Royal Biryani House,Chicken Fried Rice,Biryani & Rice,313,2025-01-08 13:29:00,3,939,3.9,
+U004,Bombay Bites,Manchurian,Chinese,173,2025-01-08 14:26:00,2,346,,
+U043,Punjabi Dhaba,Pongal,South Indian,101,2025-01-08 23:12:00,2,202,3.8,
+U009,Royal Biryani House,Fried Rice,Chinese,205,2025-01-09 01:22:00,1,205,3.3,
+U029,Zayka Junction,Spring Rolls,Chinese,152,2025-01-09 05:18:00,2,304,,
+U008,Cafe Aroma,Dabeli,Street Food,59,2025-01-09 05:55:00,1,59,,extra spicy
+U048,Kolkata Rolls,Dal Makhani,North Indian,277,2025-01-09 19:49:00,1,277,4.1,no garlic
+U033,Authentic Flavors,Falooda,Desserts & Beverages,138,2025-01-09 20:37:00,2,276,,
+U007,Lazeez Darbar,Appam with Stew,South Indian,198,2025-01-09 22:37:00,1,198,,
+U044,Heritage Kitchen,Kadhi Chawal,North Indian,162,2025-01-09 23:41:00,2,324,4.4,
+U024,Spices & Herbs,Misal Pav,Street Food,119,2025-01-10 00:32:00,3,357,,
+U002,Chaat Junction,Cold Coffee,Desserts & Beverages,157,2025-01-10 12:48:00,1,157,,
+U028,Lucknowi Handi,Ghee Rice,Biryani & Rice,140,2025-01-10 13:11:00,1,140,,
+U007,Biryani Blues,Uttapam,South Indian,127,2025-01-10 21:45:00,3,381,,extra sauce
+U031,Cafe Aroma,Samosa,Street Food,47,2025-01-10 22:31:00,1,47,4.1,
+U030,Biryani Blues,Rava Dosa,South Indian,91,2025-01-10 23:59:00,1,91,,extra cheese
+U044,Dosa Delight,Veg Pulao,Biryani & Rice,246,2025-01-11 02:05:00,1,246,,
+U043,Authentic Flavors,Rasgulla,Desserts & Beverages,120,2025-01-11 03:48:00,2,240,4.1,no onions
+U036,Golden Spoon,Vada,South Indian,73,2025-01-11 06:46:00,2,146,3.9,
+U022,Mughlai Magic,Curd Rice,Biryani & Rice,123,2025-01-11 11:06:00,2,246,3.3,extra veggies
+U005,Zayka Junction,Manchurian,Chinese,145,2025-01-11 13:30:00,2,290,,
+U037,Mughlai Magic,Hakka Noodles,Chinese,223,2025-01-11 16:01:00,3,669,,
+U022,Lazeez Darbar,Uttapam,South Indian,99,2025-01-11 19:03:00,2,198,,no onions
+U047,Fusion Delight,Chili Paneer,Chinese,196,2025-01-12 02:56:00,1,196,,
+U034,Taste of Kerala,Mutton Biryani,Biryani & Rice,463,2025-01-12 03:09:00,1,463,4.2,
+U001,Kolkata Mishti,Dal Makhani,North Indian,228,2025-01-12 03:11:00,1,228,,well done
+U040,The Street Eatery,Jeera Rice,Biryani & Rice,100,2025-01-12 03:43:00,1,100,4.6,
+U021,Heritage Kitchen,Dal Makhani,North Indian,291,2025-01-12 04:06:00,1,291,,
+U002,Fusion Delight,Hot & Sour Soup,Chinese,146,2025-01-12 12:15:00,2,292,,no garlic
+U002,Fusion Delight,Schezwan Noodles,Chinese,165,2025-01-12 14:57:00,2,330,,
+U024,The Midnight Crave,Idli Sambar,South Indian,110,2025-01-12 16:16:00,1,110,3.1,
+U032,Taste of Hyderabad,Falooda,Desserts & Beverages,132,2025-01-12 22:40:00,2,264,3.4,
+U005,Taste of Kerala,Chili Paneer,Chinese,208,2025-01-13 05:13:00,2,416,,
+U030,Spices & Herbs,Rava Dosa,South Indian,92,2025-01-13 12:24:00,1,92,3.6,
+U046,Zayka Junction,Spring Rolls,Chinese,152,2025-01-13 12:54:00,1,152,,
+U032,The Grand Tiffin,Uttapam,South Indian,108,2025-01-13 13:11:00,1,108,,
+U009,Royal Biryani House,Hyderabadi Biryani,Biryani & Rice,307,2025-01-13 15:07:00,1,307,3.9,
+U008,The Grand Tiffin,Kulfi,Desserts & Beverages,149,2025-01-13 20:52:00,1,149,,
+U028,Lucknowi Handi,Appam with Stew,South Indian,178,2025-01-13 23:01:00,1,178,4.9,no onions
+U022,Lazeez Darbar,Dal Makhani,North Indian,220,2025-01-14 05:56:00,3,660,,extra veggies
+U043,Punjabi Dhaba,Appam with Stew,South Indian,158,2025-01-14 06:28:00,2,316,3.2,
+U029,Barbecue Nation,Rava Dosa,South Indian,129,2025-01-14 08:48:00,3,387,,
+U032,Cafe Aroma,Hyderabadi Biryani,Biryani & Rice,367,2025-01-14 08:52:00,3,1101,4.3,
+U046,Kolkata Rolls,Mango Lassi,Desserts & Beverages,107,2025-01-14 13:51:00,2,214,4.9,extra sauce
+U050,Royal Biryani House,Mutton Biryani,Biryani & Rice,354,2025-01-14 14:15:00,3,1062,,
+U017,Taste of Hyderabad,Hakka Noodles,Chinese,218,2025-01-14 18:03:00,2,436,4.6,
+U020,The Grand Tiffin,Rasgulla,Desserts & Beverages,98,2025-01-15 01:18:00,3,294,,
+U030,Lucknowi Handi,Butter Naan,North Indian,53,2025-01-15 02:07:00,1,53,3.7,mild flavor
+U039,The Midnight Crave,Butter Naan,North Indian,50,2025-01-15 03:51:00,2,100,3.0,
+U008,The Grand Tiffin,Cold Coffee,Desserts & Beverages,143,2025-01-15 09:24:00,2,286,,
+U030,Sweet Symphony,Pav Bhaji,Street Food,138,2025-01-15 09:32:00,2,276,3.4,
+U041,Indori Chatpata,Veg Pulao,Biryani & Rice,190,2025-01-15 09:43:00,1,190,4.9,
+U047,The Grand Tiffin,Kulfi,Desserts & Beverages,149,2025-01-15 11:31:00,2,298,3.8,
+U028,Andhra Spice,Hot & Sour Soup,Chinese,121,2025-01-15 11:43:00,2,242,4.3,
+U001,Fusion Delight,Hot & Sour Soup,Chinese,146,2025-01-15 16:10:00,2,292,,
+U010,Pind Baluchi,Pongal,South Indian,86,2025-01-15 21:02:00,2,172,,
+U035,Pind Baluchi,Idli Sambar,South Indian,54,2025-01-15 22:38:00,2,108,4.7,no onions
+U001,Kolkata Rolls,Dal Makhani,North Indian,277,2025-01-16 01:42:00,2,554,3.6,
+U006,Momo Mania,Gulab Jamun,Desserts & Beverages,69,2025-01-16 04:14:00,2,138,,extra veggies
+U012,Chaat Junction,Aloo Paratha,North Indian,81,2025-01-16 04:40:00,2,162,,
+U002,Punjabi Dhaba,Masala Dosa,South Indian,133,2025-01-16 05:29:00,3,399,,
+U014,Lucknowi Handi,Idli Sambar,South Indian,93,2025-01-16 12:46:00,1,93,,
+U040,Mughlai Magic,Hyderabadi Biryani,Biryani & Rice,354,2025-01-16 14:53:00,1,354,4.6,
+U039,Kathi Rolls Express,Dim Sum,Chinese,171,2025-01-16 16:07:00,3,513,4.1,
+U020,Rajasthan Rasoi,Kadhi Chawal,North Indian,150,2025-01-16 16:10:00,3,450,,less oil
+U044,Dosa Delight,Kulfi,Desserts & Beverages,139,2025-01-16 21:54:00,2,278,3.2,
+U021,Heritage Kitchen,Aloo Paratha,North Indian,67,2025-01-17 01:52:00,3,201,3.1,
+U034,Lazeez Darbar,Masala Dosa,South Indian,124,2025-01-17 05:21:00,3,372,4.2,no garlic
+U043,Himalayan Kitchen,Badam Milk,Desserts & Beverages,122,2025-01-17 06:52:00,1,122,,
+U039,Kathi Rolls Express,Hot & Sour Soup,Chinese,138,2025-01-17 11:08:00,3,414,4.3,
+U049,Zayka Junction,Schezwan Noodles,Chinese,233,2025-01-17 19:34:00,1,233,4.1,
+U035,Pind Baluchi,Filter Coffee,South Indian,46,2025-01-17 20:02:00,2,92,3.5,
+U024,The Grand Tiffin,Mysore Bonda,South Indian,85,2025-01-17 20:08:00,3,255,4.1,
+U046,Heritage Kitchen,Kadhi Chawal,North Indian,162,2025-01-17 23:29:00,3,486,3.5,
+U031,Lucknowi Handi,Curd Rice,Biryani & Rice,128,2025-01-18 15:45:00,1,128,,
+U043,Mughlai Magic,Curd Rice,Biryani & Rice,123,2025-01-18 23:47:00,1,123,4.1,extra veggies
+U003,Crispy Crunch,Vada,South Indian,99,2025-01-19 15:33:00,2,198,,
+U028,Andhra Spice,Chili Paneer,Chinese,257,2025-01-19 15:37:00,1,257,3.7,
+U009,Taste of Kerala,Fried Rice,Chinese,143,2025-01-19 16:16:00,2,286,,
+U001,The Street Eatery,Dal Makhani,North Indian,286,2025-01-19 18:33:00,3,858,,well done
+U001,Fusion Delight,Schezwan Noodles,Chinese,165,2025-01-19 20:06:00,1,165,,
+U004,Bombay Bites,Hot & Sour Soup,Chinese,133,2025-01-20 01:08:00,3,399,,
+U004,Bombay Bites,Pav Bhaji,Street Food,113,2025-01-20 01:39:00,3,339,,extra veggies
+U035,Himalayan Kitchen,Kulfi,Desserts & Beverages,148,2025-01-20 02:35:00,1,148,3.4,no salt
+U011,Royal Biryani House,Hyderabadi Biryani,Biryani & Rice,307,2025-01-20 03:34:00,3,921,,
+U038,Taste of Hyderabad,Schezwan Noodles,Chinese,264,2025-01-20 05:46:00,1,264,3.7,
+U043,Momo Mania,Kulfi,Desserts & Beverages,118,2025-01-20 08:10:00,2,236,3.7,extra sauce
+U001,Fusion Delight,Fried Rice,Chinese,147,2025-01-20 08:18:00,2,294,,less oil
+U010,Dosa Delight,Badam Milk,Desserts & Beverages,93,2025-01-20 15:00:00,3,279,3.7,
+U044,Mughlai Magic,Curd Rice,Biryani & Rice,123,2025-01-20 21:17:00,3,369,,no garlic
+U013,Golden Spoon,Mysore Bonda,South Indian,80,2025-01-21 01:04:00,3,240,4.3,
+U001,Fusion Delight,Fried Rice,Chinese,147,2025-01-21 02:34:00,3,441,3.1,no onions
+U030,Cafe Aroma,Egg Biryani,Biryani & Rice,209,2025-01-21 05:08:00,3,627,,extra spicy
+U047,Bangalore Bites,Masala Chai,Desserts & Beverages,78,2025-01-21 14:10:00,2,156,3.0,
+U019,Lazeez Darbar,Uttapam,South Indian,99,2025-01-21 15:09:00,1,99,,
+U010,Nukkad Cafe,Manchurian,Chinese,204,2025-01-21 16:57:00,3,612,3.0,mild flavor
+U001,Fusion Delight,Schezwan Noodles,Chinese,165,2025-01-21 19:04:00,2,330,3.1,
+U042,Pind Baluchi,Idli Sambar,South Indian,54,2025-01-21 19:39:00,1,54,3.6,
+U031,The Midnight Crave,Samosa,Street Food,50,2025-01-21 19:58:00,1,50,4.1,
+U046,Sweet Symphony,Dabeli,Street Food,70,2025-01-21 20:08:00,3,210,3.8,
+U041,Golden Spoon,Uttapam,South Indian,79,2025-01-22 00:49:00,1,79,,no garlic
+U038,The Midnight Crave,Samosa,Street Food,50,2025-01-22 04:03:00,1,50,,
+U016,Taste of Hyderabad,Hakka Noodles,Chinese,218,2025-01-22 07:35:00,1,218,,
+U050,Indori Chatpata,Curd Rice,Biryani & Rice,129,2025-01-22 10:40:00,1,129,,
+U010,Royal Biryani House,Ghee Rice,Biryani & Rice,120,2025-01-22 11:40:00,3,360,3.4,extra veggies
+U039,Kathi Rolls Express,Dim Sum,Chinese,171,2025-01-22 12:00:00,1,171,3.9,
+U031,Lucknowi Handi,Mutton Biryani,Biryani & Rice,535,2025-01-22 12:56:00,1,535,4.0,extra veggies
+U036,Royal Biryani House,Dim Sum,Chinese,169,2025-01-22 16:08:00,2,338,,no onions
+U040,Chaat Junction,Gulab Jamun,Desserts & Beverages,85,2025-01-22 16:36:00,1,85,4.3,
+U026,Tandoori Treats,Rajma Chawal,North Indian,185,2025-01-22 16:59:00,2,370,3.5,extra veggies
+U015,Andhra Spice,Chili Paneer,Chinese,257,2025-01-22 20:22:00,3,771,4.3,
+U021,Biryani Blues,Kulfi,Desserts & Beverages,143,2025-01-22 21:11:00,2,286,,
+U025,Authentic Flavors,Masala Chai,Desserts & Beverages,50,2025-01-22 22:19:00,3,150,,
+U015,Biryani Blues,Sev Puri,Street Food,137,2025-01-23 01:51:00,2,274,3.3,well done
+U021,Chaat Junction,Badam Milk,Desserts & Beverages,85,2025-01-23 05:48:00,3,255,,
+U045,Taste of Kerala,Hyderabadi Biryani,Biryani & Rice,289,2025-01-23 05:54:00,1,289,4.7,
+U013,The Grand Tiffin,Cold Coffee,Desserts & Beverages,143,2025-01-23 06:39:00,2,286,,
+U002,Lucknowi Handi,Masala Dosa,South Indian,126,2025-01-23 07:26:00,3,378,4.7,
+U036,Taste of Kerala,Chili Paneer,Chinese,208,2025-01-23 07:46:00,1,208,,
+U013,Biryani Blues,Rava Dosa,South Indian,91,2025-01-23 12:47:00,1,91,4.3,
+U018,Chaat Junction,Falooda,Desserts & Beverages,120,2025-01-23 15:34:00,3,360,4.2,
+U025,Indori Chatpata,Ghee Rice,Biryani & Rice,143,2025-01-23 16:55:00,2,286,4.8,
+U006,Momo Mania,Ice Cream Sundae,Desserts & Beverages,198,2025-01-24 00:22:00,1,198,4.7,
+U046,Sweet Symphony,Sev Puri,Street Food,97,2025-01-24 09:45:00,3,291,4.6,
+U022,Dosa Delight,Mutton Biryani,Biryani & Rice,389,2025-01-24 09:51:00,2,778,4.2,
+U020,Fusion Delight,Schezwan Noodles,Chinese,165,2025-01-24 11:07:00,2,330,4.3,
+U044,Kathi Rolls Express,Kulfi,Desserts & Beverages,83,2025-01-24 13:34:00,1,83,4.3,
+U049,Fusion Delight,Chili Paneer,Chinese,196,2025-01-24 14:43:00,2,392,,
+U047,The Grilled Affair,Manchurian,Chinese,147,2025-01-24 14:47:00,3,441,,extra spicy
+U004,The Street Eatery,Rajma Chawal,North Indian,176,2025-01-24 16:13:00,3,528,,
+U031,Bombay Bites,Sev Puri,Street Food,72,2025-01-24 21:04:00,3,216,,
+U014,Biryani Blues,Vada,South Indian,94,2025-01-25 02:33:00,3,282,,extra veggies
+U025,Heritage Kitchen,Chole Bhature,North Indian,142,2025-01-25 04:42:00,3,426,4.9,
+U013,Lucknowi Handi,Mutton Biryani,Biryani & Rice,535,2025-01-25 07:21:00,3,1605,3.6,extra veggies
+U040,Flavors of South,Jeera Rice,Biryani & Rice,129,2025-01-25 08:02:00,2,258,,
+U016,Zayka Junction,Fried Rice,Chinese,228,2025-01-25 10:16:00,2,456,,mild flavor
+U030,Sweet Symphony,Samosa,Street Food,60,2025-01-25 10:18:00,2,120,4.2,
+U009,Zayka Junction,Mango Lassi,Desserts & Beverages,124,2025-01-25 11:18:00,3,372,,extra spicy
+U008,The Grand Tiffin,Uttapam,South Indian,108,2025-01-25 12:26:00,2,216,3.3,less oil
+U044,Indori Chatpata,Pani Puri,Street Food,58,2025-01-25 15:24:00,2,116,4.4,
+U022,Lazeez Darbar,Shahi Paneer,North Indian,342,2025-01-25 18:30:00,1,342,,
+U031,Lucknowi Handi,Aloo Paratha,North Indian,91,2025-01-25 18:54:00,1,91,,
+U003,The Grilled Affair,Schezwan Noodles,Chinese,197,2025-01-26 05:52:00,2,394,,
+U043,Golden Spoon,Fried Rice,Chinese,200,2025-01-26 09:39:00,1,200,,extra veggies
+U038,Taste of Kerala,Schezwan Noodles,Chinese,222,2025-01-26 12:53:00,1,222,,
+U030,Lucknowi Handi,Aloo Paratha,North Indian,91,2025-01-26 13:45:00,3,273,,
+U047,Kolkata Mishti,Rajma Chawal,North Indian,162,2025-01-26 14:53:00,2,324,,no onions
+U034,Indori Chatpata,Egg Biryani,Biryani & Rice,293,2025-01-26 15:35:00,2,586,3.9,
+U010,Dosa Delight,Ghee Rice,Biryani & Rice,191,2025-01-26 16:10:00,3,573,,
+U010,Pind Baluchi,Pav Bhaji,Street Food,104,2025-01-27 03:52:00,2,208,,
+U033,Golden Spoon,Spring Rolls,Chinese,158,2025-01-27 05:24:00,3,474,,no garlic
+U001,Biryani Blues,Badam Milk,Desserts & Beverages,64,2025-01-27 07:54:00,2,128,,
+U009,Kathi Rolls Express,Ice Cream Sundae,Desserts & Beverages,234,2025-01-27 09:55:00,2,468,3.2,
+U031,Biryani Blues,Misal Pav,Street Food,137,2025-01-27 12:21:00,2,274,3.9,
+U031,Spices & Herbs,Vada Pav,Street Food,54,2025-01-27 20:16:00,2,108,3.4,
+U010,Taste of Hyderabad,Rasgulla,Desserts & Beverages,82,2025-01-27 20:42:00,1,82,,
+U008,The Grand Tiffin,Filter Coffee,South Indian,43,2025-01-28 03:25:00,3,129,,no salt
+U050,Nukkad Cafe,Chicken Fried Rice,Biryani & Rice,280,2025-01-28 05:13:00,1,280,,
+U040,Andhra Spice,Chicken Fried Rice,Biryani & Rice,309,2025-01-28 09:45:00,3,927,,less oil
+U029,Chaat Junction,Badam Milk,Desserts & Beverages,85,2025-01-28 11:07:00,3,255,,extra sauce
+U028,Pind Baluchi,Masala Dosa,South Indian,147,2025-01-28 12:03:00,3,441,,
+U030,Biryani Blues,Kulfi,Desserts & Beverages,143,2025-01-28 14:12:00,1,143,3.7,
+U031,Bombay Bites,Manchurian,Chinese,173,2025-01-28 16:11:00,1,173,,extra spicy
+U013,Lucknowi Handi,Vada,South Indian,77,2025-01-28 20:05:00,1,77,4.9,less oil
+U032,The Midnight Crave,Pani Puri,Street Food,100,2025-01-28 20:15:00,3,300,3.5,
+U037,Golden Spoon,Vada Pav,Street Food,76,2025-01-28 20:57:00,2,152,,extra veggies
+U018,Chaat Junction,Spring Rolls,Chinese,104,2025-01-29 04:33:00,1,104,4.9,
+U041,Flavors of South,Egg Biryani,Biryani & Rice,227,2025-01-29 05:19:00,3,681,,extra spicy
+U025,Kathi Rolls Express,Badam Milk,Desserts & Beverages,106,2025-01-29 06:20:00,3,318,,
+U013,Kathi Rolls Express,Hot & Sour Soup,Chinese,138,2025-01-29 09:23:00,1,138,3.8,
+U039,Kathi Rolls Express,Fried Rice,Chinese,204,2025-01-29 09:29:00,1,204,4.1,
+U049,Kolkata Rolls,Gulab Jamun,Desserts & Beverages,66,2025-01-29 11:23:00,3,198,3.7,
+U048,Indori Chatpata,Pav Bhaji,Street Food,152,2025-01-29 16:25:00,2,304,,
+U040,Kathi Rolls Express,Cold Coffee,Desserts & Beverages,124,2025-01-29 16:46:00,3,372,4.3,
+U039,Bombay Bites,Hot & Sour Soup,Chinese,133,2025-01-30 01:56:00,1,133,,
+U025,Spices & Herbs,Ice Cream Sundae,Desserts & Beverages,163,2025-01-30 04:11:00,3,489,,
+U013,Lazeez Darbar,Kadhi Chawal,North Indian,127,2025-01-30 06:52:00,3,381,4.0,
+U009,Taste of Kerala,Ghee Rice,Biryani & Rice,156,2025-01-30 08:51:00,1,156,,
+U035,Punjabi Dhaba,Vada,South Indian,99,2025-01-31 04:54:00,2,198,,
+U033,Andhra Spice,Butter Naan,North Indian,66,2025-01-31 05:52:00,2,132,,no onions
+U023,The Midnight Crave,Paneer Butter Masala,North Indian,256,2025-01-31 08:09:00,3,768,,
+U039,Kathi Rolls Express,Cold Coffee,Desserts & Beverages,124,2025-01-31 08:58:00,1,124,4.1,
+U012,Golden Spoon,Hakka Noodles,Chinese,218,2025-01-31 09:26:00,2,436,3.8,
+U045,Fusion Delight,Schezwan Noodles,Chinese,165,2025-01-31 15:09:00,2,330,4.0,no onions
+U017,Indori Chatpata,Mutton Biryani,Biryani & Rice,368,2025-01-31 16:12:00,2,736,3.8,
+U014,Dosa Delight,Kulfi,Desserts & Beverages,139,2025-02-01 09:36:00,3,417,4.5,
+U047,Royal Biryani House,Fried Rice,Chinese,205,2025-02-01 12:20:00,1,205,,
+U013,Lucknowi Handi,Paneer Butter Masala,North Indian,245,2025-02-01 15:49:00,1,245,4.7,
+U038,Kathi Rolls Express,Rasgulla,Desserts & Beverages,58,2025-02-01 17:10:00,1,58,3.2,
+U047,Chaat Junction,Ice Cream Sundae,Desserts & Beverages,208,2025-02-01 23:35:00,2,416,4.4,
+U011,Taste of Kerala,Mutton Biryani,Biryani & Rice,463,2025-02-02 01:45:00,2,926,,
+U025,Heritage Kitchen,Kadhi Chawal,North Indian,162,2025-02-02 04:11:00,3,486,,well done
+U018,Rajasthan Rasoi,Dal Makhani,North Indian,227,2025-02-02 06:15:00,3,681,4.9,
+U031,Punjabi Dhaba,Vada,South Indian,99,2025-02-02 14:20:00,2,198,4.6,
+U022,Pind Baluchi,Pongal,South Indian,86,2025-02-02 17:57:00,3,258,,
+U008,Fusion Delight,Chili Paneer,Chinese,196,2025-02-02 19:04:00,1,196,,no onions
+U031,Golden Spoon,Dahi Puri,Street Food,114,2025-02-03 00:22:00,2,228,,mild flavor
+U025,Heritage Kitchen,Chole Bhature,North Indian,142,2025-02-03 04:06:00,2,284,,
+U042,Pind Baluchi,Dahi Puri,Street Food,120,2025-02-03 04:50:00,2,240,3.5,
+U002,Fusion Delight,Schezwan Noodles,Chinese,165,2025-02-03 05:39:00,1,165,,
+U010,Golden Spoon,Misal Pav,Street Food,156,2025-02-03 05:39:00,3,468,4.5,no onions
+U035,Lazeez Darbar,Masala Dosa,South Indian,124,2025-02-03 10:24:00,3,372,,no salt
+U049,Kathi Rolls Express,Mango Lassi,Desserts & Beverages,85,2025-02-03 11:03:00,2,170,,
+U026,Royal Biryani House,Pav Bhaji,Street Food,112,2025-02-03 12:36:00,3,336,,mild flavor
+U043,Chaat Junction,Ice Cream Sundae,Desserts & Beverages,208,2025-02-03 15:34:00,1,208,,
+U042,Pind Baluchi,Filter Coffee,South Indian,46,2025-02-03 15:56:00,3,138,,well done
+U027,Zayka Junction,Cold Coffee,Desserts & Beverages,143,2025-02-03 16:08:00,2,286,,
+U044,The Grand Tiffin,Filter Coffee,South Indian,43,2025-02-03 17:53:00,3,129,4.5,extra veggies
+U035,Crispy Crunch,Vada,South Indian,99,2025-02-03 18:23:00,1,99,,
+U001,Pind Baluchi,Dahi Puri,Street Food,120,2025-02-03 20:36:00,3,360,4.3,
+U044,Dosa Delight,Ghee Rice,Biryani & Rice,191,2025-02-04 06:14:00,2,382,3.0,extra cheese
+U007,Lucknowi Handi,Idli Sambar,South Indian,93,2025-02-04 07:57:00,3,279,,
+U044,Nukkad Cafe,Fried Rice,Chinese,179,2025-02-04 11:25:00,2,358,,
+U010,Dosa Delight,Rasgulla,Desserts & Beverages,55,2025-02-04 12:26:00,3,165,5.0,no onions
+U042,Mughlai Magic,Schezwan Noodles,Chinese,267,2025-02-04 12:55:00,1,267,,no onions
+U009,Kolkata Rolls,Paneer Butter Masala,North Indian,246,2025-02-04 18:44:00,3,738,3.7,
+U013,Pind Baluchi,Pongal,South Indian,86,2025-02-04 19:56:00,3,258,,
+U038,The Midnight Crave,Rajma Chawal,North Indian,150,2025-02-04 22:11:00,1,150,,
+U035,Dosa Delight,Mutton Biryani,Biryani & Rice,389,2025-02-04 22:44:00,2,778,3.7,
+U001,Cafe Aroma,Chili Paneer,Chinese,224,2025-02-05 03:09:00,1,224,3.2,
+U044,The Grand Tiffin,Falooda,Desserts & Beverages,170,2025-02-05 07:38:00,3,510,,no onions
+U017,Bangalore Bites,Falooda,Desserts & Beverages,163,2025-02-05 19:22:00,1,163,,
+U008,The Grand Tiffin,Ice Cream Sundae,Desserts & Beverages,164,2025-02-05 19:23:00,1,164,4.2,extra spicy
+U023,Dosa Delight,Shahi Paneer,North Indian,313,2025-02-06 03:05:00,3,939,4.1,
+U025,Momo Mania,Ice Cream Sundae,Desserts & Beverages,198,2025-02-06 06:35:00,1,198,,
+U008,Rajasthan Rasoi,Aloo Paratha,North Indian,89,2025-02-06 12:48:00,1,89,3.1,
+U027,Pind Baluchi,Misal Pav,Street Food,99,2025-02-06 13:21:00,1,99,,
+U004,Bombay Bites,Misal Pav,Street Food,152,2025-02-06 17:53:00,1,152,3.9,
+U026,Fusion Delight,Hot & Sour Soup,Chinese,146,2025-02-06 21:50:00,2,292,,mild flavor
+U036,Andhra Spice,Ghee Rice,Biryani & Rice,178,2025-02-06 23:37:00,2,356,,no garlic
+U042,Pind Baluchi,Dahi Puri,Street Food,120,2025-02-07 09:40:00,3,360,5.0,extra cheese
+U030,Himalayan Kitchen,Idli Sambar,South Indian,50,2025-02-07 10:22:00,3,150,4.8,
+U020,Kathi Rolls Express,Ice Cream Sundae,Desserts & Beverages,234,2025-02-07 14:50:00,3,702,,
+U018,Chaat Junction,Butter Naan,North Indian,43,2025-02-07 16:04:00,3,129,4.0,extra veggies
+U030,Lucknowi Handi,Masala Dosa,South Indian,126,2025-02-07 19:24:00,3,378,4.7,
+U012,Golden Spoon,Misal Pav,Street Food,156,2025-02-07 19:31:00,2,312,3.7,mild flavor
+U037,Mughlai Magic,Fried Rice,Chinese,153,2025-02-08 19:06:00,2,306,,well done
+U050,Mughlai Magic,Egg Biryani,Biryani & Rice,274,2025-02-08 23:08:00,3,822,4.8,less oil
+U012,Taste of Hyderabad,Dabeli,Street Food,73,2025-02-08 23:28:00,3,219,4.7,
+U007,Punjabi Dhaba,Idli Sambar,South Indian,60,2025-02-09 00:49:00,2,120,,
+U031,Lucknowi Handi,Idli Sambar,South Indian,93,2025-02-09 01:45:00,2,186,,
+U032,Kolkata Rolls,Cold Coffee,Desserts & Beverages,127,2025-02-09 05:21:00,3,381,,
+U025,Himalayan Kitchen,Masala Chai,Desserts & Beverages,74,2025-02-09 07:40:00,2,148,4.1,
+U043,Rajasthan Rasoi,Aloo Paratha,North Indian,89,2025-02-09 10:36:00,3,267,4.5,extra sauce
+U034,Spices & Herbs,Samosa,Street Food,31,2025-02-09 19:08:00,1,31,,
+U022,Lazeez Darbar,Aloo Paratha,North Indian,86,2025-02-09 22:52:00,1,86,4.8,
+U030,Sweet Symphony,Vada Pav,Street Food,51,2025-02-10 00:44:00,1,51,4.5,
+U015,Cafe Aroma,Veg Pulao,Biryani & Rice,159,2025-02-10 01:27:00,3,477,4.8,extra sauce
+U034,Taste of Kerala,Veg Pulao,Biryani & Rice,234,2025-02-10 01:37:00,2,468,3.8,
+U026,Indori Chatpata,Pani Puri,Street Food,58,2025-02-10 01:46:00,3,174,4.8,
+U046,South Spice,Dal Makhani,North Indian,214,2025-02-10 05:30:00,2,428,,
+U015,Cafe Aroma,Jeera Rice,Biryani & Rice,103,2025-02-10 06:18:00,1,103,,no garlic
+U027,Pind Baluchi,Pav Bhaji,Street Food,104,2025-02-10 07:03:00,1,104,3.7,
+U025,Kathi Rolls Express,Masala Chai,Desserts & Beverages,48,2025-02-10 09:26:00,2,96,,no salt
+U050,Dosa Delight,Shahi Paneer,North Indian,313,2025-02-10 12:15:00,1,313,4.0,
+U031,Bombay Bites,Samosa,Street Food,31,2025-02-10 13:24:00,2,62,3.2,
+U034,Lazeez Darbar,Rajma Chawal,North Indian,244,2025-02-10 16:12:00,1,244,3.5,no salt
+U025,Spices & Herbs,Cold Coffee,Desserts & Beverages,158,2025-02-10 19:15:00,1,158,,
+U044,Cafe Aroma,Curd Rice,Biryani & Rice,133,2025-02-10 20:00:00,1,133,3.3,
+U031,Indori Chatpata,Vada Pav,Street Food,43,2025-02-10 22:07:00,1,43,,extra sauce
+U042,Nukkad Cafe,Chili Paneer,Chinese,262,2025-02-11 00:32:00,1,262,3.6,
+U024,Fusion Delight,Schezwan Noodles,Chinese,165,2025-02-11 01:37:00,1,165,4.3,
+U030,Kolkata Mishti,Rajma Chawal,North Indian,162,2025-02-11 01:39:00,3,486,4.0,
+U016,Biryani Blues,Masala Dosa,South Indian,142,2025-02-11 08:19:00,3,426,,
+U044,Andhra Spice,Chicken Fried Rice,Biryani & Rice,309,2025-02-11 11:39:00,2,618,,
+U013,Lazeez Darbar,Tandoori Roti,North Indian,41,2025-02-11 12:22:00,2,82,,
+U012,Golden Spoon,Chili Paneer,Chinese,246,2025-02-11 22:15:00,2,492,,
+U026,Sweet Symphony,Samosa,Street Food,60,2025-02-12 00:50:00,1,60,,
+U049,Bombay Bites,Spring Rolls,Chinese,121,2025-02-12 01:00:00,1,121,3.4,
+U038,Taste of Kerala,Spring Rolls,Chinese,172,2025-02-12 02:17:00,2,344,4.6,extra spicy
+U050,Lucknowi Handi,Mutton Biryani,Biryani & Rice,535,2025-02-12 07:28:00,2,1070,4.5,
+U016,Biryani Blues,Idli Sambar,South Indian,70,2025-02-12 07:57:00,1,70,,
+U039,Taste of Hyderabad,Pav Bhaji,Street Food,112,2025-02-12 16:47:00,3,336,,
+U037,Mughlai Magic,Dim Sum,Chinese,210,2025-02-13 01:48:00,3,630,,well done
+U003,Mughlai Magic,Hyderabadi Biryani,Biryani & Rice,354,2025-02-13 04:17:00,2,708,4.4,
+U021,The Street Eatery,Tandoori Roti,North Indian,35,2025-02-13 06:52:00,1,35,4.8,
+U022,Lazeez Darbar,Appam with Stew,South Indian,198,2025-02-13 08:46:00,3,594,,
+U001,Taste of Kerala,Hot & Sour Soup,Chinese,148,2025-02-13 10:08:00,3,444,3.2,
+U043,Momo Mania,Mango Lassi,Desserts & Beverages,103,2025-02-13 12:05:00,3,309,4.4,
+U010,Bombay Bites,Sev Puri,Street Food,72,2025-02-13 12:38:00,2,144,,
+U011,Cafe Aroma,Veg Pulao,Biryani & Rice,159,2025-02-13 13:10:00,3,477,4.0,
+U001,Fusion Delight,Chili Paneer,Chinese,196,2025-02-13 16:34:00,1,196,3.3,
+U029,Andhra Spice,Kadhi Chawal,North Indian,137,2025-02-13 19:26:00,3,411,4.9,
+U020,Andhra Spice,Manchurian,Chinese,183,2025-02-14 10:08:00,2,366,4.5,
+U005,The Street Eatery,Rajma Chawal,North Indian,176,2025-02-14 10:58:00,1,176,4.7,extra sauce
+U045,Bombay Bites,Spring Rolls,Chinese,121,2025-02-14 13:52:00,2,242,,
+U047,The Grilled Affair,Manchurian,Chinese,147,2025-02-14 15:44:00,2,294,,
+U048,Kolkata Mishti,Rajma Chawal,North Indian,162,2025-02-14 17:19:00,1,162,,
+U043,Momo Mania,Falooda,Desserts & Beverages,133,2025-02-14 20:07:00,3,399,4.7,
+U039,Andhra Spice,Aloo Paratha,North Indian,61,2025-02-14 23:22:00,1,61,3.2,mild flavor
+U004,Bombay Bites,Dabeli,Street Food,56,2025-02-15 00:33:00,2,112,4.1,
+U004,Bombay Bites,Fried Rice,Chinese,210,2025-02-15 03:01:00,3,630,3.6,
+U002,Pind Baluchi,Vada,South Indian,92,2025-02-15 07:23:00,1,92,4.2,mild flavor
+U027,Golden Spoon,Vada Pav,Street Food,76,2025-02-15 11:03:00,3,228,3.6,
+U018,Chaat Junction,Mango Lassi,Desserts & Beverages,99,2025-02-15 11:23:00,1,99,4.1,
+U010,Pind Baluchi,Pav Bhaji,Street Food,104,2025-02-15 12:45:00,3,312,3.3,extra cheese
+U023,Flavors of South,Hyderabadi Biryani,Biryani & Rice,362,2025-02-15 14:35:00,2,724,3.1,
+U034,Lazeez Darbar,Uttapam,South Indian,99,2025-02-15 21:33:00,3,297,,
+U022,Taste of Kerala,Mutton Biryani,Biryani & Rice,463,2025-02-16 01:29:00,1,463,,less oil
+U025,Heritage Kitchen,Aloo Paratha,North Indian,67,2025-02-16 01:33:00,1,67,5.0,
+U042,Bombay Bites,Dahi Puri,Street Food,94,2025-02-16 04:49:00,1,94,3.5,
+U046,Royal Biryani House,Misal Pav,Street Food,129,2025-02-16 05:57:00,1,129,4.3,
+U022,Royal Biryani House,Ghee Rice,Biryani & Rice,120,2025-02-16 11:09:00,3,360,,
+U039,Kathi Rolls Express,Cold Coffee,Desserts & Beverages,124,2025-02-16 11:25:00,2,248,4.3,
+U004,Heritage Kitchen,Paneer Butter Masala,North Indian,248,2025-02-16 12:40:00,1,248,,
+U034,Lazeez Darbar,Masala Dosa,South Indian,124,2025-02-16 14:06:00,2,248,,
+U047,The Grilled Affair,Hot & Sour Soup,Chinese,120,2025-02-16 14:14:00,1,120,3.9,
+U039,Mughlai Magic,Hakka Noodles,Chinese,223,2025-02-16 14:29:00,2,446,,
+U015,Lazeez Darbar,Uttapam,South Indian,99,2025-02-16 15:58:00,1,99,3.0,
+U025,Biryani Blues,Badam Milk,Desserts & Beverages,64,2025-02-16 19:18:00,2,128,4.4,well done
+U013,Heritage Kitchen,Paneer Butter Masala,North Indian,248,2025-02-17 01:51:00,1,248,,
+U012,Tandoori Treats,Butter Naan,North Indian,63,2025-02-17 02:57:00,1,63,,
+U046,Sweet Symphony,Misal Pav,Street Food,99,2025-02-17 10:07:00,2,198,,
+U048,Barbecue Nation,Appam with Stew,South Indian,249,2025-02-17 11:44:00,2,498,,
+U038,Spices & Herbs,Rava Dosa,South Indian,92,2025-02-17 13:53:00,1,92,3.9,
+U008,The Grand Tiffin,Badam Milk,Desserts & Beverages,86,2025-02-17 18:28:00,2,172,,
+U031,Lucknowi Handi,Masala Dosa,South Indian,126,2025-02-17 21:15:00,1,126,3.4,extra cheese
+U001,Chaat Junction,Rajma Chawal,North Indian,160,2025-02-18 00:39:00,1,160,4.7,
+U045,Golden Spoon,Dim Sum,Chinese,230,2025-02-18 02:35:00,2,460,,
+U028,Andhra Spice,Chole Bhature,North Indian,118,2025-02-18 04:34:00,1,118,4.9,
+U008,The Grand Tiffin,Uttapam,South Indian,108,2025-02-18 05:02:00,3,324,,
+U010,Dosa Delight,Mutton Biryani,Biryani & Rice,389,2025-02-18 07:31:00,3,1167,,
+U039,Kathi Rolls Express,Dim Sum,Chinese,171,2025-02-18 09:50:00,1,171,3.3,extra sauce
+U004,Lazeez Darbar,Tandoori Roti,North Indian,41,2025-02-18 10:45:00,2,82,3.5,
+U050,Chaat Junction,Dim Sum,Chinese,201,2025-02-18 11:30:00,2,402,3.7,
+U022,Royal Biryani House,Ghee Rice,Biryani & Rice,120,2025-02-18 11:50:00,1,120,,
+U032,Himalayan Kitchen,Masala Chai,Desserts & Beverages,74,2025-02-18 12:11:00,2,148,3.3,
+U009,Cafe Aroma,Hot & Sour Soup,Chinese,161,2025-02-19 01:07:00,1,161,4.7,well done
+U032,Golden Spoon,Pani Puri,Street Food,43,2025-02-19 01:26:00,1,43,4.2,no onions
+U007,Lazeez Darbar,Filter Coffee,South Indian,63,2025-02-19 02:23:00,1,63,,mild flavor
+U015,The Midnight Crave,Sev Puri,Street Food,80,2025-02-19 05:16:00,2,160,,
+U027,Royal Biryani House,Pani Puri,Street Food,79,2025-02-19 14:18:00,2,158,3.2,
+U005,Mughlai Magic,Hot & Sour Soup,Chinese,127,2025-02-19 15:29:00,3,381,,extra sauce
+U044,The Grand Tiffin,Masala Chai,Desserts & Beverages,39,2025-02-19 19:11:00,3,117,,
+U021,Heritage Kitchen,Paneer Butter Masala,North Indian,248,2025-02-20 00:41:00,2,496,,
+U019,Biryani Blues,Idli Sambar,South Indian,70,2025-02-20 14:00:00,2,140,4.4,
+U037,Kolkata Mishti,Chole Bhature,North Indian,118,2025-02-20 19:55:00,3,354,4.7,extra spicy
+U037,Indori Chatpata,Egg Biryani,Biryani & Rice,293,2025-02-20 20:22:00,1,293,3.5,
+U009,Kolkata Rolls,Gulab Jamun,Desserts & Beverages,66,2025-02-20 22:15:00,3,198,3.5,
+U007,Biryani Blues,Pani Puri,Street Food,41,2025-02-21 00:58:00,3,123,4.5,
+U035,Spices & Herbs,Sev Puri,Street Food,99,2025-02-21 07:16:00,2,198,3.0,
+U016,Royal Biryani House,Dabeli,Street Food,70,2025-02-21 07:48:00,1,70,4.8,
+U012,The Midnight Crave,Rajma Chawal,North Indian,150,2025-02-21 08:48:00,3,450,3.5,
+U025,Royal Biryani House,Hakka Noodles,Chinese,183,2025-02-21 13:46:00,2,366,3.5,extra sauce
+U029,The Grand Tiffin,Uttapam,South Indian,108,2025-02-21 14:02:00,2,216,4.7,
+U011,Nukkad Cafe,Ghee Rice,Biryani & Rice,187,2025-02-21 15:57:00,3,561,4.9,
+U015,Pind Baluchi,Dahi Puri,Street Food,120,2025-02-21 16:26:00,2,240,,
+U043,Momo Mania,Falooda,Desserts & Beverages,133,2025-02-21 17:42:00,1,133,4.1,
+U048,Barbecue Nation,Filter Coffee,South Indian,70,2025-02-21 19:25:00,3,210,,
+U021,Zayka Junction,Kulfi,Desserts & Beverages,102,2025-02-21 21:28:00,2,204,,extra veggies
+U014,Fusion Delight,Hot & Sour Soup,Chinese,146,2025-02-22 01:52:00,3,438,,
+U004,Bombay Bites,Fried Rice,Chinese,210,2025-02-22 04:29:00,1,210,,
+U043,Momo Mania,Rasgulla,Desserts & Beverages,85,2025-02-22 05:52:00,1,85,,
+U003,The Grilled Affair,Manchurian,Chinese,147,2025-02-22 08:53:00,3,441,,
+U002,Punjabi Dhaba,Masala Dosa,South Indian,133,2025-02-22 09:47:00,3,399,,
+U010,Biryani Blues,Misal Pav,Street Food,137,2025-02-22 13:46:00,1,137,4.5,no garlic
+U026,Punjabi Dhaba,Dim Sum,Chinese,189,2025-02-22 13:47:00,3,567,4.4,
+U016,Taste of Hyderabad,Cold Coffee,Desserts & Beverages,146,2025-02-22 14:21:00,2,292,3.3,
+U045,Chaat Junction,Schezwan Noodles,Chinese,214,2025-02-22 14:34:00,2,428,,no garlic
+U002,Barbecue Nation,Pongal,South Indian,81,2025-02-22 18:51:00,1,81,,no garlic
+U035,Spices & Herbs,Rava Dosa,South Indian,92,2025-02-22 19:12:00,2,184,,no onions
+U037,Heritage Kitchen,Kadhi Chawal,North Indian,162,2025-02-22 21:43:00,1,162,,
+U004,The Midnight Crave,Aloo Paratha,North Indian,82,2025-02-23 00:50:00,3,246,,
+U036,Authentic Flavors,Gulab Jamun,Desserts & Beverages,98,2025-02-23 04:30:00,2,196,4.5,no garlic
+U050,Lucknowi Handi,Egg Biryani,Biryani & Rice,324,2025-02-23 05:21:00,2,648,,
+U031,Spices & Herbs,Samosa,Street Food,31,2025-02-23 08:26:00,3,93,4.8,
+U029,Spices & Herbs,Vada,South Indian,43,2025-02-23 13:56:00,3,129,,
+U029,Crispy Crunch,Masala Dosa,South Indian,98,2025-02-24 04:49:00,3,294,,extra veggies
+U039,Heritage Kitchen,Tandoori Roti,North Indian,35,2025-02-24 11:18:00,3,105,,
+U050,Indori Chatpata,Dabeli,Street Food,72,2025-02-24 12:01:00,1,72,,no onions
+U009,Nukkad Cafe,Chicken Fried Rice,Biryani & Rice,280,2025-02-24 14:18:00,2,560,4.5,no salt
+U039,Kathi Rolls Express,Fried Rice,Chinese,204,2025-02-24 15:56:00,1,204,5.0,
+U048,The Street Eatery,Aloo Paratha,North Indian,112,2025-02-25 06:09:00,1,112,,
+U013,Lazeez Darbar,Dal Makhani,North Indian,220,2025-02-25 07:58:00,2,440,3.1,
+U033,Chaat Junction,Schezwan Noodles,Chinese,214,2025-02-25 14:57:00,1,214,,
+U012,The Street Eatery,Chole Bhature,North Indian,103,2025-02-25 16:39:00,2,206,3.3,
+U044,Mughlai Magic,Veg Pulao,Biryani & Rice,190,2025-02-25 17:31:00,1,190,,
+U010,Dosa Delight,Aloo Paratha,North Indian,59,2025-02-25 20:23:00,1,59,,
+U045,Mughlai Magic,Chili Paneer,Chinese,167,2025-02-25 22:07:00,3,501,,
+U044,Dosa Delight,Ghee Rice,Biryani & Rice,191,2025-02-26 01:29:00,2,382,3.2,extra spicy
+U032,Royal Biryani House,Veg Pulao,Biryani & Rice,222,2025-02-26 01:50:00,2,444,4.8,
+U022,The Street Eatery,Ghee Rice,Biryani & Rice,186,2025-02-26 05:14:00,1,186,3.4,
+U044,The Grand Tiffin,Uttapam,South Indian,108,2025-02-26 07:36:00,1,108,4.8,no onions
+U003,Nukkad Cafe,Veg Pulao,Biryani & Rice,209,2025-02-26 15:15:00,3,627,,no salt
+U040,Bangalore Bites,Ice Cream Sundae,Desserts & Beverages,202,2025-02-26 17:23:00,3,606,,no garlic
+U014,Fusion Delight,Spring Rolls,Chinese,103,2025-02-26 18:19:00,2,206,3.7,
+U034,The Midnight Crave,Appam with Stew,South Indian,169,2025-02-26 18:36:00,3,507,3.5,extra veggies
+U021,Kathi Rolls Express,Rasgulla,Desserts & Beverages,58,2025-02-26 20:17:00,3,174,,
+U046,Sweet Symphony,Pani Puri,Street Food,59,2025-02-26 21:22:00,2,118,,extra veggies
+U039,Kathi Rolls Express,Hakka Noodles,Chinese,214,2025-02-27 04:12:00,3,642,3.8,
+U024,Royal Biryani House,Mutton Biryani,Biryani & Rice,354,2025-02-27 04:16:00,2,708,4.1,mild flavor
+U037,Heritage Kitchen,Paneer Butter Masala,North Indian,248,2025-02-27 18:10:00,3,744,3.3,mild flavor
+U014,Punjabi Dhaba,Vada,South Indian,99,2025-02-27 20:12:00,3,297,4.4,
+U001,Fusion Delight,Hot & Sour Soup,Chinese,146,2025-02-27 20:50:00,2,292,,
+U036,The Grilled Affair,Chili Paneer,Chinese,159,2025-02-27 22:11:00,1,159,4.6,extra cheese
+U043,Taste of Hyderabad,Masala Chai,Desserts & Beverages,63,2025-02-27 23:25:00,3,189,,
+U009,Punjabi Dhaba,Appam with Stew,South Indian,158,2025-02-28 00:40:00,1,158,,
+U006,Himalayan Kitchen,Pongal,South Indian,100,2025-02-28 00:40:00,3,300,,
+U039,Kathi Rolls Express,Rasgulla,Desserts & Beverages,58,2025-02-28 03:19:00,3,174,3.5,extra spicy
+U009,Indori Chatpata,Mutton Biryani,Biryani & Rice,368,2025-02-28 04:03:00,2,736,,
+U019,Rajasthan Rasoi,Dal Makhani,North Indian,227,2025-02-28 08:52:00,2,454,,
+U012,Tandoori Treats,Kadhi Chawal,North Indian,156,2025-02-28 08:55:00,3,468,3.5,
+U009,Taste of Kerala,Ghee Rice,Biryani & Rice,156,2025-02-28 11:44:00,1,156,4.0,no salt
+U008,The Grand Tiffin,Mysore Bonda,South Indian,85,2025-02-28 12:20:00,1,85,,
+U029,Zayka Junction,Masala Chai,Desserts & Beverages,31,2025-02-28 13:51:00,1,31,,
+U013,Lazeez Darbar,Filter Coffee,South Indian,63,2025-02-28 13:59:00,3,189,4.5,
+U004,Bombay Bites,Pav Bhaji,Street Food,113,2025-02-28 18:59:00,1,113,,
+U048,Lazeez Darbar,Rajma Chawal,North Indian,244,2025-03-01 00:12:00,1,244,,extra cheese
+U024,The Midnight Crave,Pani Puri,Street Food,100,2025-03-01 02:51:00,3,300,3.3,
+U042,Cafe Aroma,Hakka Noodles,Chinese,205,2025-03-01 04:43:00,1,205,4.5,
+U019,Mughlai Magic,Hot & Sour Soup,Chinese,127,2025-03-01 05:32:00,3,381,,
+U023,Flavors of South,Egg Biryani,Biryani & Rice,227,2025-03-01 06:25:00,3,681,3.4,
+U010,Dilli Wale Paratha,Rava Dosa,South Indian,152,2025-03-01 06:49:00,2,304,4.6,
+U040,Kathi Rolls Express,Gulab Jamun,Desserts & Beverages,54,2025-03-01 09:14:00,3,162,,
+U026,Royal Biryani House,Sev Puri,Street Food,136,2025-03-01 09:47:00,1,136,3.8,extra sauce
+U004,Golden Spoon,Dabeli,Street Food,73,2025-03-01 13:09:00,1,73,,
+U001,Cafe Aroma,Jeera Rice,Biryani & Rice,103,2025-03-01 13:49:00,2,206,,
+U027,Zayka Junction,Badam Milk,Desserts & Beverages,115,2025-03-01 21:20:00,2,230,3.7,
+U020,Chaat Junction,Schezwan Noodles,Chinese,214,2025-03-01 21:51:00,1,214,,
+U004,Bombay Bites,Vada Pav,Street Food,63,2025-03-01 23:15:00,2,126,,extra sauce
+U020,Kathi Rolls Express,Ice Cream Sundae,Desserts & Beverages,234,2025-03-02 02:46:00,2,468,,
+U029,Crispy Crunch,Masala Dosa,South Indian,98,2025-03-02 03:07:00,3,294,,extra spicy
+U007,Spices & Herbs,Idli Sambar,South Indian,74,2025-03-02 06:02:00,2,148,,no salt
+U016,Biryani Blues,Appam with Stew,South Indian,186,2025-03-02 08:57:00,1,186,4.6,
+U047,Spices & Herbs,Pani Puri,Street Food,91,2025-03-02 10:12:00,3,273,3.2,
+U050,Nukkad Cafe,Ghee Rice,Biryani & Rice,187,2025-03-02 14:24:00,1,187,,extra sauce
+U037,Mughlai Magic,Jeera Rice,Biryani & Rice,134,2025-03-02 16:22:00,3,402,4.0,
+U038,Mughlai Magic,Egg Biryani,Biryani & Rice,274,2025-03-02 17:07:00,1,274,,
+U008,The Grand Tiffin,Mango Lassi,Desserts & Beverages,123,2025-03-02 18:58:00,3,369,,mild flavor
+U038,Biryani Blues,Vada Pav,Street Food,61,2025-03-03 00:40:00,3,183,,
+U011,The Grilled Affair,Hakka Noodles,Chinese,176,2025-03-03 01:56:00,3,528,,
+U017,Mughlai Magic,Spring Rolls,Chinese,170,2025-03-03 08:16:00,3,510,,
+U045,Nukkad Cafe,Fried Rice,Chinese,179,2025-03-03 13:39:00,3,537,3.4,
+U010,Dosa Delight,Masala Chai,Desserts & Beverages,68,2025-03-03 14:45:00,2,136,,
+U008,Kolkata Mishti,Butter Naan,North Indian,50,2025-03-03 18:06:00,2,100,,
+U044,Andhra Spice,Mutton Biryani,Biryani & Rice,316,2025-03-04 01:38:00,3,948,3.0,
+U021,Chaat Junction,Dim Sum,Chinese,201,2025-03-04 09:29:00,1,201,,
+U013,Heritage Kitchen,Shahi Paneer,North Indian,240,2025-03-04 17:30:00,2,480,4.2,
+U027,The Midnight Crave,Dal Makhani,North Indian,291,2025-03-04 21:19:00,3,873,4.8,
+U026,Lucknowi Handi,Veg Pulao,Biryani & Rice,187,2025-03-04 22:21:00,1,187,,
+U008,The Grand Tiffin,Uttapam,South Indian,108,2025-03-05 00:06:00,3,324,4.6,
+U020,Zayka Junction,Schezwan Noodles,Chinese,233,2025-03-05 00:13:00,3,699,,no onions
+U042,Pind Baluchi,Masala Dosa,South Indian,147,2025-03-05 05:02:00,1,147,,no salt
+U026,Indori Chatpata,Misal Pav,Street Food,105,2025-03-05 06:21:00,2,210,,
+U040,Kathi Rolls Express,Hakka Noodles,Chinese,214,2025-03-05 06:36:00,2,428,4.9,
+U021,Spices & Herbs,Masala Chai,Desserts & Beverages,41,2025-03-05 06:42:00,2,82,,extra spicy
+U012,Pind Baluchi,Idli Sambar,South Indian,54,2025-03-05 15:46:00,1,54,,
+U022,Lazeez Darbar,Kadhi Chawal,North Indian,127,2025-03-05 17:18:00,3,381,,
+U009,The Street Eatery,Jeera Rice,Biryani & Rice,100,2025-03-05 18:11:00,3,300,3.6,
+U045,Nukkad Cafe,Dim Sum,Chinese,147,2025-03-06 01:22:00,2,294,,
+U032,Nukkad Cafe,Jeera Rice,Biryani & Rice,120,2025-03-06 02:10:00,2,240,4.7,no garlic
+U044,Lucknowi Handi,Hyderabadi Biryani,Biryani & Rice,292,2025-03-06 03:15:00,2,584,4.6,
+U025,Nukkad Cafe,Egg Biryani,Biryani & Rice,220,2025-03-06 03:45:00,2,440,3.4,
+U021,Himalayan Kitchen,Falooda,Desserts & Beverages,158,2025-03-06 04:45:00,1,158,,
+U013,Indori Chatpata,Curd Rice,Biryani & Rice,129,2025-03-06 05:09:00,3,387,,mild flavor
+U021,Kolkata Rolls,Rasgulla,Desserts & Beverages,102,2025-03-06 09:31:00,1,102,3.2,
+U008,The Grand Tiffin,Cold Coffee,Desserts & Beverages,143,2025-03-06 17:00:00,3,429,,extra sauce
+U049,Zayka Junction,Hakka Noodles,Chinese,241,2025-03-06 19:18:00,1,241,3.8,
+U012,Tandoori Treats,Kadhi Chawal,North Indian,156,2025-03-06 22:14:00,1,156,4.2,
+U035,Zayka Junction,Hot & Sour Soup,Chinese,111,2025-03-06 23:02:00,2,222,5.0,no garlic
+U049,Golden Spoon,Spring Rolls,Chinese,158,2025-03-06 23:18:00,2,316,,extra veggies
+U029,Tandoori Treats,Pongal,South Indian,109,2025-03-07 04:03:00,2,218,,
+U029,Zayka Junction,Hot & Sour Soup,Chinese,111,2025-03-07 06:17:00,3,333,,well done
+U047,Cafe Aroma,Fried Rice,Chinese,159,2025-03-07 07:40:00,3,477,,
+U004,Tandoori Treats,Rajma Chawal,North Indian,185,2025-03-07 08:48:00,1,185,,mild flavor
+U039,Kathi Rolls Express,Dim Sum,Chinese,171,2025-03-07 14:38:00,3,513,,
+U038,Golden Spoon,Manchurian,Chinese,183,2025-03-07 16:17:00,1,183,,
+U018,Pind Baluchi,Sev Puri,Street Food,86,2025-03-07 21:47:00,2,172,3.3,well done
+U002,Spices & Herbs,Mysore Bonda,South Indian,109,2025-03-07 22:02:00,1,109,4.6,no onions
+U044,Kathi Rolls Express,Kulfi,Desserts & Beverages,83,2025-03-07 22:54:00,2,166,,well done
+U008,Rajasthan Rasoi,Kadhi Chawal,North Indian,150,2025-03-08 06:54:00,3,450,5.0,
+U025,Authentic Flavors,Masala Chai,Desserts & Beverages,50,2025-03-08 08:03:00,2,100,,
+U032,The Grand Tiffin,Cold Coffee,Desserts & Beverages,143,2025-03-08 16:13:00,3,429,,no onions
+U016,Royal Biryani House,Pav Bhaji,Street Food,112,2025-03-08 18:14:00,3,336,,
+U007,Biryani Blues,Cold Coffee,Desserts & Beverages,160,2025-03-08 21:07:00,1,160,,no salt
+U012,The Street Eatery,Aloo Paratha,North Indian,112,2025-03-09 01:54:00,1,112,4.5,
+U045,Taste of Hyderabad,Chili Paneer,Chinese,253,2025-03-09 03:46:00,2,506,3.8,
+U035,Crispy Crunch,Uttapam,South Indian,108,2025-03-09 08:05:00,1,108,,well done
+U006,Authentic Flavors,Gulab Jamun,Desserts & Beverages,98,2025-03-09 11:22:00,3,294,,extra cheese
+U001,Kolkata Mishti,Chole Bhature,North Indian,118,2025-03-09 12:13:00,3,354,,
+U050,Crispy Crunch,Appam with Stew,South Indian,213,2025-03-09 15:45:00,3,639,,
+U019,Barbecue Nation,Rava Dosa,South Indian,129,2025-03-09 15:50:00,3,387,4.3,
+U009,Zayka Junction,Dim Sum,Chinese,252,2025-03-09 20:42:00,3,756,,
+U013,The Midnight Crave,Samosa,Street Food,50,2025-03-09 21:51:00,1,50,,
+U048,Barbecue Nation,Vada,South Indian,71,2025-03-09 23:45:00,1,71,3.9,extra cheese
+U010,Biryani Blues,Sev Puri,Street Food,137,2025-03-10 01:03:00,1,137,4.7,
+U039,Lucknowi Handi,Rajma Chawal,North Indian,221,2025-03-10 01:06:00,2,442,,extra cheese
+U019,Barbecue Nation,Pongal,South Indian,81,2025-03-10 02:33:00,3,243,,
+U033,Nukkad Cafe,Schezwan Noodles,Chinese,232,2025-03-10 09:54:00,3,696,3.2,
+U042,Pind Baluchi,Misal Pav,Street Food,99,2025-03-10 10:24:00,2,198,,
+U018,Chaat Junction,Spring Rolls,Chinese,104,2025-03-10 11:42:00,1,104,,
+U008,The Midnight Crave,Tandoori Roti,North Indian,43,2025-03-10 17:09:00,1,43,3.5,
+U012,Kolkata Mishti,Paneer Butter Masala,North Indian,304,2025-03-10 22:53:00,2,608,3.9,
+U009,Kolkata Rolls,Cold Coffee,Desserts & Beverages,127,2025-03-10 23:26:00,1,127,,
+U030,Lucknowi Handi,Uttapam,South Indian,87,2025-03-10 23:47:00,1,87,,no salt
+U040,Tandoori Treats,Rajma Chawal,North Indian,185,2025-03-11 06:36:00,1,185,4.4,less oil
+U036,Bangalore Bites,Badam Milk,Desserts & Beverages,99,2025-03-11 09:31:00,2,198,4.4,less oil
+U042,Pind Baluchi,Uttapam,South Indian,74,2025-03-11 10:47:00,2,148,,extra cheese
+U015,Kathi Rolls Express,Fried Rice,Chinese,204,2025-03-11 13:02:00,1,204,3.7,
+U038,Taste of Kerala,Chili Paneer,Chinese,208,2025-03-11 13:08:00,3,624,,
+U025,Bangalore Bites,Gulab Jamun,Desserts & Beverages,89,2025-03-11 22:30:00,3,267,3.3,
+U037,Mughlai Magic,Spring Rolls,Chinese,170,2025-03-11 23:40:00,2,340,,
+U016,Spices & Herbs,Dabeli,Street Food,56,2025-03-12 15:10:00,3,168,4.1,
+U030,Golden Spoon,Rava Dosa,South Indian,108,2025-03-12 18:41:00,3,324,,
+U022,Lazeez Darbar,Filter Coffee,South Indian,63,2025-03-12 19:39:00,1,63,,
+U031,Lucknowi Handi,Filter Coffee,South Indian,75,2025-03-12 23:26:00,2,150,,no salt
+U050,Punjabi Dhaba,Appam with Stew,South Indian,158,2025-03-13 03:37:00,2,316,4.5,
+U038,The Midnight Crave,Paneer Butter Masala,North Indian,256,2025-03-13 03:51:00,2,512,4.4,
+U015,Golden Spoon,Dabeli,Street Food,73,2025-03-13 09:16:00,3,219,,
+U021,Cafe Aroma,Samosa,Street Food,47,2025-03-13 11:30:00,3,141,,
+U035,Crispy Crunch,Appam with Stew,South Indian,213,2025-03-13 11:54:00,1,213,4.7,
+U050,The Grand Tiffin,Idli Sambar,South Indian,74,2025-03-13 15:56:00,1,74,,
+U004,The Midnight Crave,Dal Makhani,North Indian,291,2025-03-13 17:21:00,3,873,,well done
+U037,Mughlai Magic,Manchurian,Chinese,188,2025-03-13 17:53:00,3,564,4.7,
+U040,Kathi Rolls Express,Gulab Jamun,Desserts & Beverages,54,2025-03-13 18:20:00,3,162,,
+U029,Zayka Junction,Schezwan Noodles,Chinese,233,2025-03-13 18:47:00,3,699,3.1,
+U028,Biryani Blues,Masala Chai,Desserts & Beverages,70,2025-03-13 22:39:00,1,70,,
+U034,Dosa Delight,Jeera Rice,Biryani & Rice,105,2025-03-13 22:47:00,3,315,,no garlic
+U038,Chaat Junction,Manchurian,Chinese,208,2025-03-13 22:58:00,2,416,,
+U030,Sweet Symphony,Pav Bhaji,Street Food,138,2025-03-14 00:01:00,1,138,,
+U030,Crispy Crunch,Appam with Stew,South Indian,213,2025-03-14 00:33:00,3,639,,
+U039,Kathi Rolls Express,Kulfi,Desserts & Beverages,83,2025-03-14 04:03:00,2,166,3.7,no onions
+U046,Sweet Symphony,Vada Pav,Street Food,51,2025-03-14 07:34:00,3,153,,
+U025,Kathi Rolls Express,Badam Milk,Desserts & Beverages,106,2025-03-14 08:45:00,3,318,4.4,mild flavor
+U045,Golden Spoon,Sev Puri,Street Food,104,2025-03-14 09:13:00,3,312,3.8,extra spicy
+U023,Lucknowi Handi,Curd Rice,Biryani & Rice,128,2025-03-14 11:31:00,3,384,4.9,
+U016,Royal Biryani House,Pav Bhaji,Street Food,112,2025-03-14 12:05:00,3,336,3.9,
+U037,Bangalore Bites,Cold Coffee,Desserts & Beverages,111,2025-03-14 15:03:00,2,222,,extra sauce
+U009,Kolkata Rolls,Rajma Chawal,North Indian,159,2025-03-14 16:13:00,2,318,,
+U031,Taste of Hyderabad,Pav Bhaji,Street Food,112,2025-03-15 01:06:00,2,224,,mild flavor
+U031,Dosa Delight,Butter Naan,North Indian,54,2025-03-15 07:25:00,2,108,4.2,
+U038,Taste of Kerala,Fried Rice,Chinese,143,2025-03-15 07:49:00,2,286,,
+U030,The Midnight Crave,Appam with Stew,South Indian,169,2025-03-15 12:08:00,3,507,,less oil
+U010,Golden Spoon,Pani Puri,Street Food,43,2025-03-15 15:10:00,1,43,3.3,
+U050,Lucknowi Handi,Ghee Rice,Biryani & Rice,140,2025-03-15 16:45:00,3,420,,
+U050,Mughlai Magic,Jeera Rice,Biryani & Rice,134,2025-03-15 18:22:00,3,402,3.1,no garlic
+U034,Lazeez Darbar,Vada,South Indian,73,2025-03-15 23:45:00,3,219,3.2,
+U001,Heritage Kitchen,Aloo Paratha,North Indian,67,2025-03-15 23:46:00,1,67,4.6,extra cheese
